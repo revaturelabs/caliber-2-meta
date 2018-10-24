@@ -1,3 +1,10 @@
 {
- "projects": {}
+  "projects": {
+    "1808-cal-v2-zuul": "https://github.com/revaturelabs/1808-cal-v2-zuul.git",
+    "1808-cal-v2-eureka": "https://github.com/revaturelabs/1808-cal-v2-eureka.git",
+    "1808-cal-v2-batch-service": "https://github.com/revaturelabs/1808-cal-v2-batch-service.git",
+    "1808-cal-v2-skilltype-service": "https://github.com/revaturelabs/1808-cal-v2-skilltype-service.git",
+    "1808-cal-v2-location-service": "https://github.com/revaturelabs/1808-cal-v2-location-service.git",
+    "1808-cal-v2-user-service": "https://github.com/revaturelabs/1808-cal-v2-user-service.git"
+  }
 }
