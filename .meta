@@ -1,10 +1,14 @@
 {
   "projects": {
-    "1808-cal-v2-zuul": "https://github.com/revaturelabs/1808-cal-v2-zuul.git",
-    "1808-cal-v2-eureka": "https://github.com/revaturelabs/1808-cal-v2-eureka.git",
-    "1808-cal-v2-batch-service": "https://github.com/revaturelabs/1808-cal-v2-batch-service.git",
-    "1808-cal-v2-skilltype-service": "https://github.com/revaturelabs/1808-cal-v2-skilltype-service.git",
-    "1808-cal-v2-location-service": "https://github.com/revaturelabs/1808-cal-v2-location-service.git",
-    "1808-cal-v2-user-service": "https://github.com/revaturelabs/1808-cal-v2-user-service.git"
+    "frontend": "https://github.com/revaturelabs/caliber-2-angular.git",
+    "assessment-service": "https://github.com/revaturelabs/caliber-2-assessment-service.git",
+    "batch-service": "https://github.com/revaturelabs/caliber-2-batch-service.git",
+    "category-service": "https://github.com/revaturelabs/caliber-2-category-service.git",
+    "eureka": "https://github.com/revaturelabs/caliber-2-eureka.git",
+    "location-service": "https://github.com/revaturelabs/caliber-2-location-service.git",
+    "quality-audit-service": "https://github.com/revaturelabs/caliber-2-quality-audit-service.git",
+    "skilltype-service": "https://github.com/revaturelabs/caliber-2-skilltype-service.git",
+    "user-service": "https://github.com/revaturelabs/caliber-2-user-service.git",
+    "zuul": "https://github.com/revaturelabs/caliber-2-zuul.git"
   }
 }

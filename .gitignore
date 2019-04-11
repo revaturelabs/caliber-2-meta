@@ -1,1 +1,11 @@
-1808-*
+.metadata
+frontend
+assessment-service
+batch-service
+category-service
+eureka
+location-service
+quality-audit-service
+skilltype-service
+user-service
+zuul
