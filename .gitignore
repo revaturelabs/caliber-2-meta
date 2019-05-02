@@ -9,3 +9,5 @@ quality-audit-service
 skilltype-service
 user-service
 zuul
+config-server
+centralized-configurations

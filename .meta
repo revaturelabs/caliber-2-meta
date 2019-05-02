@@ -9,6 +9,8 @@
     "quality-audit-service": "https://github.com/revaturelabs/caliber-2-quality-audit-service.git",
     "skilltype-service": "https://github.com/revaturelabs/caliber-2-skilltype-service.git",
     "user-service": "https://github.com/revaturelabs/caliber-2-user-service.git",
-    "zuul": "https://github.com/revaturelabs/caliber-2-zuul.git"
+    "zuul": "https://github.com/revaturelabs/caliber-2-zuul.git",
+    "config-server": "https://github.com/revaturelabs/caliber-2-config-server.git",
+    "centralized-configurations": "https://github.com/revaturelabs/caliber-2-central-config-repo.git"
   }
 }
