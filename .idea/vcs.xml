@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/assessment-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/batch-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/category-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/config-server" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/eureka" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/location-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/quality-audit-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/skilltype-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/user-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/zuul" vcs="Git" />
+  </component>
+</project>

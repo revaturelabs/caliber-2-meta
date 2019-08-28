@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/user-service/1808-cal-v2-user-service.iml" filepath="$PROJECT_DIR$/user-service/1808-cal-v2-user-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/assessment-service/AssessmentService.iml" filepath="$PROJECT_DIR$/assessment-service/AssessmentService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/batch-service/BatchService.iml" filepath="$PROJECT_DIR$/batch-service/BatchService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka/CaliberEureka.iml" filepath="$PROJECT_DIR$/eureka/CaliberEureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuul/CaliberZuul.iml" filepath="$PROJECT_DIR$/zuul/CaliberZuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/category-service/CategoryService.iml" filepath="$PROJECT_DIR$/category-service/CategoryService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-server/ConfigServer.iml" filepath="$PROJECT_DIR$/config-server/ConfigServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/location-service/LocationService.iml" filepath="$PROJECT_DIR$/location-service/LocationService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/skilltype-service/SkillTypeService.iml" filepath="$PROJECT_DIR$/skilltype-service/SkillTypeService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/caliber-2-meta.iml" filepath="$PROJECT_DIR$/.idea/caliber-2-meta.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quality-audit-service/caliber-quality-audit-service.iml" filepath="$PROJECT_DIR$/quality-audit-service/caliber-quality-audit-service.iml" />
+    </modules>
+  </component>
+</project>

@@ -11,3 +11,6 @@ user-service
 zuul
 config-server
 centralized-configurations
+.idea/workspace.xml
+.idea/usage.statistics.xml
+.idea/tasks.xml

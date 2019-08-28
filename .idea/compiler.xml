@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="AssessmentService" />
+        <module name="ConfigServer" />
+        <module name="LocationService" />
+        <module name="1808-cal-v2-user-service" />
+        <module name="SkillTypeService" />
+        <module name="BatchService" />
+        <module name="caliber-quality-audit-service" />
+        <module name="CaliberZuul" />
+        <module name="CategoryService" />
+        <module name="CaliberEureka" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="1808-cal-v2-user-service" target="1.8" />
+      <module name="AssessmentService" target="1.8" />
+      <module name="BatchService" target="1.8" />
+      <module name="caliber-quality-audit-service" target="1.8" />
+      <module name="CaliberEureka" target="1.8" />
+      <module name="CaliberZuul" target="1.8" />
+      <module name="CategoryService" target="1.8" />
+      <module name="ConfigServer" target="1.8" />
+      <module name="LocationService" target="1.8" />
+      <module name="SkillTypeService" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="CaliberEureka" options="-parameters" />
+      <module name="CaliberZuul" options="-parameters" />
+    </option>
+  </component>
+</project>
