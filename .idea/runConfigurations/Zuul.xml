@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Zuul" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <module name="CaliberZuul" />
+    <option name="SPRING_BOOT_MAIN_CLASS" value="com.revature.caliber.zuul.CaliberZuulApplication" />
+    <option name="ALTERNATIVE_JRE_PATH" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

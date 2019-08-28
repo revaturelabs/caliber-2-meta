@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Category Service - Local" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <module name="CategoryService" />
+    <option name="SPRING_BOOT_MAIN_CLASS" value="com.revature.caliber.CategoryServiceApplication" />
+    <option name="ACTIVE_PROFILES" value="local" />
+    <option name="ALTERNATIVE_JRE_PATH" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
