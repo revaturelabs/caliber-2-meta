@@ -14,3 +14,5 @@ centralized-configurations
 .idea/workspace.xml
 .idea/usage.statistics.xml
 .idea/tasks.xml
+log.txt
+src\\com\\..\\log.txt
