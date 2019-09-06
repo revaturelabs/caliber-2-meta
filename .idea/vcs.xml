@@ -5,8 +5,10 @@
     <mapping directory="$PROJECT_DIR$/assessment-service" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/batch-service" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/category-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/centralized-configurations" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/config-server" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/eureka" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/frontend" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/location-service" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/quality-audit-service" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/skilltype-service" vcs="Git" />

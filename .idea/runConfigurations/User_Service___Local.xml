@@ -2,6 +2,7 @@
   <configuration default="false" name="User Service - Local" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
     <module name="1808-cal-v2-user-service" />
     <option name="SPRING_BOOT_MAIN_CLASS" value="com.revature.caliber.UserServiceApplication" />
+    <option name="ACTIVE_PROFILES" value="local" />
     <option name="ALTERNATIVE_JRE_PATH" />
     <method v="2">
       <option name="Make" enabled="true" />

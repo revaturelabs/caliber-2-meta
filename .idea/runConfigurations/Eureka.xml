@@ -4,6 +4,7 @@
     <option name="SPRING_BOOT_MAIN_CLASS" value="com.revature.caliber.eureka.CaliberEurekaApplication" />
     <option name="ACTIVE_PROFILES" value="dev" />
     <option name="ALTERNATIVE_JRE_PATH" />
+    <option name="SHORTEN_COMMAND_LINE" value="MANIFEST" />
     <method v="2">
       <option name="Make" enabled="true" />
     </method>

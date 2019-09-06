@@ -1,0 +1,1358 @@
+2019-09-03 15:33:02 DEBUG class:57 - Inside findNotesByBatch
+2019-09-03 15:33:02 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-03 15:33:02 DEBUG class:57 - Inside findNotesByBatch
+2019-09-03 15:33:02 DEBUG class:57 - Inside findNotesByBatch
+2019-09-03 15:33:02 DEBUG class:57 - Inside findNotesByBatch
+2019-09-03 15:33:04 DEBUG class:71 - Inside findGradesByBatch
+2019-09-03 15:33:26 DEBUG class:57 - Inside findNotesByBatch
+2019-09-03 15:33:28 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-03 15:33:28 DEBUG class:71 - Inside findGradesByBatch
+2019-09-03 15:33:28 DEBUG class:57 - Inside findNotesByBatch
+2019-09-03 15:33:28 DEBUG class:57 - Inside findNotesByBatch
+2019-09-03 15:33:31 DEBUG class:57 - Inside findNotesByBatch
+2019-09-03 15:33:31 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-03 15:33:31 DEBUG class:71 - Inside findGradesByBatch
+2019-09-03 15:33:33 DEBUG class:78 - Saving new note:com.revature.caliber.dto.NoteDTO@1e0eac43
+2019-09-03 15:33:33 DEBUG class:85 - Creating Note: Note [noteId=-1, noteContent=Ok, noteType=Trainee, weekNumber=1, batchId=2, traineeId=5477]
+2019-09-03 15:33:35 DEBUG class:78 - Saving new note:com.revature.caliber.dto.NoteDTO@3e1b9b26
+2019-09-03 15:33:35 DEBUG class:85 - Creating Note: Note [noteId=-1, noteContent=Not the best, noteType=Trainee, weekNumber=1, batchId=2, traineeId=5478]
+2019-09-03 15:33:39 DEBUG class:78 - Saving new note:com.revature.caliber.dto.NoteDTO@5436dec9
+2019-09-03 15:33:39 DEBUG class:85 - Creating Note: Note [noteId=-1, noteContent=Ok, noteType=Trainee, weekNumber=1, batchId=2, traineeId=5479]
+2019-09-03 15:33:39 DEBUG class:57 - Inside findNotesByBatch
+2019-09-03 15:33:39 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-03 15:33:39 DEBUG class:71 - Inside findGradesByBatch
+2019-09-03 15:33:56 DEBUG class:50 - Creating Grade: Grade [gradeId=0, dateReceived=Wed Dec 31 19:00:00 EST 1969, score=0.0, assessmentId=50, traineeId=5478]
+2019-09-03 15:33:56 DEBUG class:50 - Creating Grade: Grade [gradeId=0, dateReceived=Wed Dec 31 19:00:00 EST 1969, score=0.0, assessmentId=50, traineeId=5479]
+2019-09-03 15:33:56 DEBUG class:50 - Creating Grade: Grade [gradeId=0, dateReceived=Wed Dec 31 19:00:00 EST 1969, score=0.0, assessmentId=50, traineeId=5477]
+2019-09-03 15:33:58 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-03 15:34:02 WARN  class:82 - Could not connect with BatchService
+2019-09-03 15:34:02 WARN  class:83 - connect timed out executing GET http://batch-service/batch/all/batch/2
+2019-09-03 15:34:04 WARN  class:109 - Could not connect with CategoryService
+2019-09-03 15:34:04 WARN  class:110 - connect timed out executing GET http://category-service/category/1
+2019-09-03 15:34:05 DEBUG class:57 - Inside findNotesByBatch
+2019-09-03 15:34:05 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-03 15:34:05 DEBUG class:71 - Inside findGradesByBatch
+2019-09-03 15:34:06 DEBUG class:57 - Inside findNotesByBatch
+2019-09-03 15:34:06 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-03 15:34:07 WARN  class:131 - Could not find Trainee with id: 5477
+2019-09-03 15:34:07 WARN  class:132 - connect timed out executing GET http://user-service/user/all/trainee/5477
+2019-09-03 15:34:08 DEBUG class:71 - Inside findGradesByBatch
+2019-09-03 15:34:08 WARN  class:82 - Could not connect with BatchService
+2019-09-03 15:34:08 WARN  class:83 - connect timed out executing GET http://batch-service/batch/all/batch/2
+2019-09-03 15:34:09 WARN  class:118 - Could not find Batch with id: 2
+2019-09-03 15:34:09 WARN  class:119 - connect timed out executing GET http://batch-service/batch/all/batch/2
+2019-09-03 15:34:10 WARN  class:82 - Could not connect with BatchService
+2019-09-03 15:34:10 WARN  class:83 - connect timed out executing GET http://batch-service/batch/all/batch/2
+2019-09-03 15:34:10 WARN  class:109 - Could not connect with CategoryService
+2019-09-03 15:34:10 WARN  class:110 - connect timed out executing GET http://category-service/category/1
+2019-09-03 15:34:11 WARN  class:131 - Could not find Trainee with id: 5478
+2019-09-03 15:34:11 WARN  class:132 - connect timed out executing GET http://user-service/user/all/trainee/5478
+2019-09-03 15:34:12 WARN  class:109 - Could not connect with CategoryService
+2019-09-03 15:34:12 WARN  class:110 - connect timed out executing GET http://category-service/category/1
+2019-09-03 15:34:13 WARN  class:131 - Could not find Trainee with id: 5479
+2019-09-03 15:34:13 WARN  class:132 - connect timed out executing GET http://user-service/user/all/trainee/5479
+2019-09-03 15:34:14 WARN  class:85 - Could not connect with TraineeService
+2019-09-03 15:34:14 WARN  class:86 - connect timed out executing GET http://user-service/user/all/trainee/5477
+2019-09-03 15:34:16 WARN  class:85 - Could not connect with TraineeService
+2019-09-03 15:34:16 WARN  class:86 - connect timed out executing GET http://user-service/user/all/trainee/5479
+2019-09-03 15:34:18 WARN  class:85 - Could not connect with TraineeService
+2019-09-03 15:34:18 WARN  class:86 - connect timed out executing GET http://user-service/user/all/trainee/5478
+2019-09-03 15:34:21 DEBUG class:50 - Creating Grade: Grade [gradeId=0, dateReceived=Wed Dec 31 19:00:00 EST 1969, score=0.0, assessmentId=51, traineeId=5477]
+2019-09-03 15:34:24 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-03 15:34:24 DEBUG class:50 - Creating Grade: Grade [gradeId=0, dateReceived=Wed Dec 31 19:00:00 EST 1969, score=0.0, assessmentId=51, traineeId=5479]
+2019-09-03 15:34:24 DEBUG class:50 - Creating Grade: Grade [gradeId=0, dateReceived=Wed Dec 31 19:00:00 EST 1969, score=0.0, assessmentId=51, traineeId=5478]
+2019-09-03 15:34:26 WARN  class:82 - Could not connect with BatchService
+2019-09-03 15:34:26 WARN  class:83 - connect timed out executing GET http://batch-service/batch/all/batch/2
+2019-09-03 15:34:27 DEBUG class:57 - Inside findNotesByBatch
+2019-09-03 15:34:28 WARN  class:109 - Could not connect with CategoryService
+2019-09-03 15:34:28 WARN  class:110 - connect timed out executing GET http://category-service/category/1
+2019-09-03 15:34:28 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-03 15:34:28 DEBUG class:57 - Inside findNotesByBatch
+2019-09-03 15:34:28 DEBUG class:71 - Inside findGradesByBatch
+2019-09-03 15:34:29 DEBUG class:57 - Inside findNotesByBatch
+2019-09-03 15:34:30 WARN  class:82 - Could not connect with BatchService
+2019-09-03 15:34:30 WARN  class:83 - connect timed out executing GET http://batch-service/batch/all/batch/2
+2019-09-03 15:34:30 WARN  class:82 - Could not connect with BatchService
+2019-09-03 15:34:30 WARN  class:83 - connect timed out executing GET http://batch-service/batch/all/batch/2
+2019-09-03 15:34:31 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-03 15:34:31 DEBUG class:71 - Inside findGradesByBatch
+2019-09-03 15:34:32 WARN  class:109 - Could not connect with CategoryService
+2019-09-03 15:34:32 WARN  class:110 - connect timed out executing GET http://category-service/category/1
+2019-09-03 15:34:32 WARN  class:109 - Could not connect with CategoryService
+2019-09-03 15:34:32 WARN  class:110 - connect timed out executing GET http://category-service/category/1
+2019-09-03 15:34:33 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-03 15:34:33 DEBUG class:57 - Inside findNotesByBatch
+2019-09-03 15:34:33 DEBUG class:71 - Inside findGradesByBatch
+2019-09-03 15:34:34 WARN  class:85 - Could not connect with TraineeService
+2019-09-03 15:34:34 WARN  class:86 - connect timed out executing GET http://user-service/user/all/trainee/5477
+2019-09-03 15:34:35 WARN  class:82 - Could not connect with BatchService
+2019-09-03 15:34:35 WARN  class:83 - connect timed out executing GET http://batch-service/batch/all/batch/2
+2019-09-03 15:34:35 WARN  class:82 - Could not connect with BatchService
+2019-09-03 15:34:35 WARN  class:83 - connect timed out executing GET http://batch-service/batch/all/batch/2
+2019-09-03 15:34:36 WARN  class:85 - Could not connect with TraineeService
+2019-09-03 15:34:36 WARN  class:86 - connect timed out executing GET http://user-service/user/all/trainee/5479
+2019-09-03 15:34:37 WARN  class:109 - Could not connect with CategoryService
+2019-09-03 15:34:37 WARN  class:110 - connect timed out executing GET http://category-service/category/1
+2019-09-03 15:34:37 WARN  class:109 - Could not connect with CategoryService
+2019-09-03 15:34:37 WARN  class:110 - connect timed out executing GET http://category-service/category/1
+2019-09-03 15:34:38 WARN  class:85 - Could not connect with TraineeService
+2019-09-03 15:34:38 WARN  class:86 - connect timed out executing GET http://user-service/user/all/trainee/5478
+2019-09-03 15:34:39 WARN  class:85 - Could not connect with TraineeService
+2019-09-03 15:34:39 WARN  class:86 - connect timed out executing GET http://user-service/user/all/trainee/5477
+2019-09-03 15:34:41 WARN  class:85 - Could not connect with TraineeService
+2019-09-03 15:34:41 WARN  class:86 - connect timed out executing GET http://user-service/user/all/trainee/5479
+2019-09-03 15:34:43 WARN  class:85 - Could not connect with TraineeService
+2019-09-03 15:34:43 WARN  class:86 - connect timed out executing GET http://user-service/user/all/trainee/5478
+2019-09-03 15:34:47 DEBUG class:71 - Inside findGradesByBatch
+2019-09-03 15:34:48 DEBUG class:57 - Inside findNotesByBatch
+2019-09-03 15:34:49 DEBUG class:57 - Inside findNotesByBatch
+2019-09-03 15:34:49 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-03 15:34:50 DEBUG class:71 - Inside findGradesByBatch
+2019-09-03 15:34:50 WARN  class:131 - Could not find Trainee with id: 5477
+2019-09-03 15:34:50 WARN  class:132 - connect timed out executing GET http://user-service/user/all/trainee/5477
+2019-09-03 15:34:50 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-03 15:34:52 WARN  class:118 - Could not find Batch with id: 2
+2019-09-03 15:34:52 WARN  class:119 - connect timed out executing GET http://batch-service/batch/all/batch/2
+2019-09-03 15:34:54 WARN  class:131 - Could not find Trainee with id: 5478
+2019-09-03 15:34:54 WARN  class:132 - connect timed out executing GET http://user-service/user/all/trainee/5478
+2019-09-03 15:34:56 WARN  class:131 - Could not find Trainee with id: 5479
+2019-09-03 15:34:56 WARN  class:132 - connect timed out executing GET http://user-service/user/all/trainee/5479
+2019-09-03 15:34:59 DEBUG class:57 - Inside findNotesByBatch
+2019-09-03 15:34:59 DEBUG class:57 - Inside findNotesByBatch
+2019-09-03 15:35:00 DEBUG class:57 - Inside findNotesByBatch
+2019-09-03 15:35:00 DEBUG class:71 - Inside findGradesByBatch
+2019-09-03 15:35:00 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-03 15:35:00 DEBUG class:57 - Inside findNotesByBatch
+2019-09-03 15:35:14 DEBUG class:50 - Creating Grade: Grade [gradeId=0, dateReceived=Wed Dec 31 19:00:00 EST 1969, score=0.0, assessmentId=52, traineeId=5479]
+2019-09-03 15:35:14 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-03 15:35:14 DEBUG class:50 - Creating Grade: Grade [gradeId=0, dateReceived=Wed Dec 31 19:00:00 EST 1969, score=0.0, assessmentId=52, traineeId=5478]
+2019-09-03 15:35:14 DEBUG class:50 - Creating Grade: Grade [gradeId=0, dateReceived=Wed Dec 31 19:00:00 EST 1969, score=0.0, assessmentId=52, traineeId=5477]
+2019-09-03 15:35:16 WARN  class:82 - Could not connect with BatchService
+2019-09-03 15:35:16 WARN  class:83 - connect timed out executing GET http://batch-service/batch/all/batch/2
+2019-09-03 15:35:18 WARN  class:109 - Could not connect with CategoryService
+2019-09-03 15:35:18 WARN  class:110 - connect timed out executing GET http://category-service/category/1
+2019-09-03 15:39:43 DEBUG class:57 - Inside findNotesByBatch
+2019-09-03 15:39:45 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-03 15:39:45 DEBUG class:71 - Inside findGradesByBatch
+2019-09-03 15:39:45 DEBUG class:57 - Inside findNotesByBatch
+2019-09-03 15:39:48 DEBUG class:57 - Inside findNotesByBatch
+2019-09-03 15:39:48 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-03 15:39:48 DEBUG class:71 - Inside findGradesByBatch
+2019-09-03 15:42:22 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-03 15:42:22 DEBUG class:71 - Inside findGradesByBatch
+2019-09-03 15:42:22 DEBUG class:57 - Inside findNotesByBatch
+2019-09-03 15:42:22 DEBUG class:57 - Inside findNotesByBatch
+2019-09-03 15:42:22 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-03 15:42:22 DEBUG class:71 - Inside findGradesByBatch
+2019-09-03 15:42:23 DEBUG class:57 - Inside findNotesByBatch
+2019-09-03 15:42:23 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-03 15:42:23 DEBUG class:71 - Inside findGradesByBatch
+2019-09-03 15:42:23 DEBUG class:57 - Inside findNotesByBatch
+2019-09-03 15:42:23 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-03 15:42:23 DEBUG class:71 - Inside findGradesByBatch
+2019-09-03 15:42:32 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-03 15:42:32 DEBUG class:50 - Creating Grade: Grade [gradeId=0, dateReceived=Wed Dec 31 19:00:00 EST 1969, score=0.0, assessmentId=50, traineeId=5478]
+2019-09-03 15:42:32 DEBUG class:50 - Creating Grade: Grade [gradeId=0, dateReceived=Wed Dec 31 19:00:00 EST 1969, score=0.0, assessmentId=50, traineeId=5477]
+2019-09-03 15:42:32 DEBUG class:50 - Creating Grade: Grade [gradeId=0, dateReceived=Wed Dec 31 19:00:00 EST 1969, score=0.0, assessmentId=50, traineeId=5479]
+2019-09-03 15:42:35 WARN  class:82 - Could not connect with BatchService
+2019-09-03 15:42:35 WARN  class:83 - status 504 reading BatchClientLocal#getBatchById(Integer); content:
+{"timestamp":"2019-09-03T19:42:35.904+0000","status":504,"error":"Gateway Timeout","message":"com.netflix.zuul.exception.ZuulException: Hystrix Readed time out"}
+2019-09-03 15:44:32 DEBUG class:57 - Inside findNotesByBatch
+2019-09-03 15:44:32 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-03 15:44:32 DEBUG class:71 - Inside findGradesByBatch
+2019-09-03 15:44:32 DEBUG class:57 - Inside findNotesByBatch
+2019-09-03 15:44:32 DEBUG class:57 - Inside findNotesByBatch
+2019-09-03 15:44:32 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-03 15:44:32 DEBUG class:71 - Inside findGradesByBatch
+2019-09-03 15:44:33 DEBUG class:57 - Inside findNotesByBatch
+2019-09-03 15:44:35 DEBUG class:57 - Inside findNotesByBatch
+2019-09-03 15:44:35 WARN  class:85 - Could not connect with TraineeService
+2019-09-03 15:44:35 WARN  class:86 - connect timed out executing GET http://user-service/user/all/trainee/5478
+2019-09-03 15:44:35 DEBUG class:71 - Inside findGradesByBatch
+2019-09-03 15:44:35 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-03 15:44:35 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-03 15:44:35 DEBUG class:71 - Inside findGradesByBatch
+2019-09-03 15:44:37 WARN  class:85 - Could not connect with TraineeService
+2019-09-03 15:44:37 WARN  class:86 - connect timed out executing GET http://user-service/user/all/trainee/5477
+2019-09-03 15:44:39 WARN  class:85 - Could not connect with TraineeService
+2019-09-03 15:44:39 WARN  class:86 - connect timed out executing GET http://user-service/user/all/trainee/5479
+2019-09-03 15:44:52 DEBUG class:50 - Creating Grade: Grade [gradeId=0, dateReceived=Wed Dec 31 19:00:00 EST 1969, score=0.0, assessmentId=51, traineeId=5478]
+2019-09-03 15:44:52 DEBUG class:50 - Creating Grade: Grade [gradeId=0, dateReceived=Wed Dec 31 19:00:00 EST 1969, score=0.0, assessmentId=51, traineeId=5477]
+2019-09-03 15:44:52 DEBUG class:50 - Creating Grade: Grade [gradeId=0, dateReceived=Wed Dec 31 19:00:00 EST 1969, score=0.0, assessmentId=51, traineeId=5479]
+2019-09-03 15:44:54 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-03 15:44:54 DEBUG class:71 - Inside findGradesByBatch
+2019-09-03 15:44:56 WARN  class:85 - Could not connect with TraineeService
+2019-09-03 15:44:56 WARN  class:86 - connect timed out executing GET http://user-service/user/all/trainee/5478
+2019-09-03 15:44:58 DEBUG class:57 - Inside findNotesByBatch
+2019-09-03 15:44:58 DEBUG class:71 - Inside findGradesByBatch
+2019-09-03 15:44:58 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-03 15:44:58 WARN  class:85 - Could not connect with TraineeService
+2019-09-03 15:44:58 WARN  class:86 - connect timed out executing GET http://user-service/user/all/trainee/5479
+2019-09-03 15:45:00 WARN  class:85 - Could not connect with TraineeService
+2019-09-03 15:45:00 WARN  class:86 - connect timed out executing GET http://user-service/user/all/trainee/5478
+2019-09-03 15:45:00 WARN  class:85 - Could not connect with TraineeService
+2019-09-03 15:45:00 WARN  class:86 - connect timed out executing GET http://user-service/user/all/trainee/5477
+2019-09-03 15:45:02 WARN  class:85 - Could not connect with TraineeService
+2019-09-03 15:45:02 WARN  class:86 - connect timed out executing GET http://user-service/user/all/trainee/5477
+2019-09-03 15:45:04 WARN  class:85 - Could not connect with TraineeService
+2019-09-03 15:45:04 WARN  class:86 - connect timed out executing GET http://user-service/user/all/trainee/5479
+2019-09-03 15:45:08 DEBUG class:78 - Saving new note:com.revature.caliber.dto.NoteDTO@5f96b410
+2019-09-03 15:45:08 DEBUG class:85 - Creating Note: Note [noteId=-1, noteContent=, noteType=Trainee, weekNumber=2, batchId=2, traineeId=5477]
+2019-09-03 15:45:09 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-03 15:45:09 DEBUG class:57 - Inside findNotesByBatch
+2019-09-03 15:45:11 DEBUG class:71 - Inside findGradesByBatch
+2019-09-03 15:45:12 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-03 15:45:12 DEBUG class:57 - Inside findNotesByBatch
+2019-09-03 15:45:12 DEBUG class:57 - Inside findNotesByBatch
+2019-09-03 15:45:13 WARN  class:85 - Could not connect with TraineeService
+2019-09-03 15:45:13 WARN  class:86 - connect timed out executing GET http://user-service/user/all/trainee/5478
+2019-09-03 15:45:14 DEBUG class:71 - Inside findGradesByBatch
+2019-09-03 15:45:14 DEBUG class:57 - Inside findNotesByBatch
+2019-09-03 15:45:14 DEBUG class:57 - Inside findNotesByBatch
+2019-09-03 15:45:15 DEBUG class:66 - Inside findAssessmentById
+2019-09-03 15:45:15 WARN  class:85 - Could not connect with TraineeService
+2019-09-03 15:45:15 WARN  class:86 - connect timed out executing GET http://user-service/user/all/trainee/5479
+2019-09-03 15:45:16 WARN  class:85 - Could not connect with TraineeService
+2019-09-03 15:45:16 WARN  class:86 - connect timed out executing GET http://user-service/user/all/trainee/5478
+2019-09-03 15:45:17 WARN  class:85 - Could not connect with TraineeService
+2019-09-03 15:45:17 WARN  class:86 - connect timed out executing GET http://user-service/user/all/trainee/5477
+2019-09-03 15:45:18 WARN  class:85 - Could not connect with TraineeService
+2019-09-03 15:45:18 WARN  class:86 - connect timed out executing GET http://user-service/user/all/trainee/5479
+2019-09-03 15:45:19 DEBUG class:83 - Updating Assessment: com.revature.caliber.dto.AssessmentDTO@53fbef9
+2019-09-03 15:45:19 DEBUG class:71 - Updating Assessment: Assessment [assessmentId=51, rawScore=100, assessmentTitle=, assessmentType=Verbal, weekNumber=3, batchId=2, assessmentCategory=1]
+2019-09-03 15:45:19 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-03 15:45:19 DEBUG class:71 - Inside findGradesByBatch
+2019-09-03 15:45:20 WARN  class:85 - Could not connect with TraineeService
+2019-09-03 15:45:20 WARN  class:86 - connect timed out executing GET http://user-service/user/all/trainee/5477
+2019-09-03 15:45:20 DEBUG class:66 - Inside findAssessmentById
+2019-09-03 15:45:21 WARN  class:85 - Could not connect with TraineeService
+2019-09-03 15:45:21 WARN  class:86 - connect timed out executing GET http://user-service/user/all/trainee/5478
+2019-09-03 15:45:22 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-03 15:45:22 DEBUG class:71 - Inside findGradesByBatch
+2019-09-03 15:45:23 WARN  class:85 - Could not connect with TraineeService
+2019-09-03 15:45:23 WARN  class:86 - connect timed out executing GET http://user-service/user/all/trainee/5479
+2019-09-03 15:45:25 WARN  class:85 - Could not connect with TraineeService
+2019-09-03 15:45:25 WARN  class:86 - connect timed out executing GET http://user-service/user/all/trainee/5477
+2019-09-03 15:45:30 DEBUG class:50 - Creating Grade: Grade [gradeId=0, dateReceived=Wed Dec 31 19:00:00 EST 1969, score=0.0, assessmentId=52, traineeId=5479]
+2019-09-03 15:45:32 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-03 15:45:32 DEBUG class:50 - Creating Grade: Grade [gradeId=0, dateReceived=Wed Dec 31 19:00:00 EST 1969, score=0.0, assessmentId=52, traineeId=5477]
+2019-09-03 15:45:32 DEBUG class:50 - Creating Grade: Grade [gradeId=0, dateReceived=Wed Dec 31 19:00:00 EST 1969, score=0.0, assessmentId=52, traineeId=5478]
+2019-09-03 15:45:32 DEBUG class:71 - Inside findGradesByBatch
+2019-09-03 15:45:34 WARN  class:85 - Could not connect with TraineeService
+2019-09-03 15:45:34 WARN  class:86 - connect timed out executing GET http://user-service/user/all/trainee/5479
+2019-09-03 15:45:36 WARN  class:85 - Could not connect with TraineeService
+2019-09-03 15:45:36 WARN  class:86 - connect timed out executing GET http://user-service/user/all/trainee/5477
+2019-09-03 15:45:38 WARN  class:85 - Could not connect with TraineeService
+2019-09-03 15:45:38 WARN  class:86 - connect timed out executing GET http://user-service/user/all/trainee/5478
+2019-09-03 15:45:52 DEBUG class:57 - Inside findNotesByBatch
+2019-09-03 15:45:52 DEBUG class:71 - Inside findGradesByBatch
+2019-09-03 15:45:52 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-03 15:45:54 WARN  class:131 - Could not find Trainee with id: 5477
+2019-09-03 15:45:54 WARN  class:132 - connect timed out executing GET http://user-service/user/all/trainee/5477
+2019-09-03 15:45:54 WARN  class:85 - Could not connect with TraineeService
+2019-09-03 15:45:54 WARN  class:86 - connect timed out executing GET http://user-service/user/all/trainee/5478
+2019-09-03 15:45:55 DEBUG class:66 - Inside findAssessmentById
+2019-09-03 15:45:56 WARN  class:85 - Could not connect with TraineeService
+2019-09-03 15:45:56 WARN  class:86 - connect timed out executing GET http://user-service/user/all/trainee/5477
+2019-09-03 15:45:56 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-03 15:45:56 DEBUG class:71 - Inside findGradesByBatch
+2019-09-03 15:45:58 WARN  class:85 - Could not connect with TraineeService
+2019-09-03 15:45:58 WARN  class:86 - connect timed out executing GET http://user-service/user/all/trainee/5479
+2019-09-03 16:00:30 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-03 16:00:30 DEBUG class:57 - Inside findNotesByBatch
+2019-09-03 16:00:30 DEBUG class:71 - Inside findGradesByBatch
+2019-09-03 16:00:30 DEBUG class:57 - Inside findNotesByBatch
+2019-09-03 16:00:31 DEBUG class:57 - Inside findNotesByBatch
+2019-09-03 16:00:31 DEBUG class:57 - Inside findNotesByBatch
+2019-09-03 16:00:38 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-03 16:00:38 DEBUG class:71 - Inside findGradesByBatch
+2019-09-03 16:00:38 DEBUG class:57 - Inside findNotesByBatch
+2019-09-03 16:00:51 DEBUG class:50 - Creating Grade: Grade [gradeId=0, dateReceived=Wed Dec 31 19:00:00 EST 1969, score=0.0, assessmentId=50, traineeId=5478]
+2019-09-03 16:00:51 DEBUG class:50 - Creating Grade: Grade [gradeId=0, dateReceived=Wed Dec 31 19:00:00 EST 1969, score=0.0, assessmentId=50, traineeId=5477]
+2019-09-03 16:00:51 DEBUG class:50 - Creating Grade: Grade [gradeId=0, dateReceived=Wed Dec 31 19:00:00 EST 1969, score=0.0, assessmentId=50, traineeId=5479]
+2019-09-03 16:00:53 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-03 16:00:53 DEBUG class:71 - Inside findGradesByBatch
+2019-09-03 16:00:54 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:00:54 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-03 16:00:54 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:00:54 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:00:56 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-03 16:00:56 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-03 16:01:13 DEBUG class:50 - Creating Grade: Grade [gradeId=0, dateReceived=Wed Dec 31 19:00:00 EST 1969, score=0.0, assessmentId=51, traineeId=5477]
+2019-09-03 16:01:13 DEBUG class:50 - Creating Grade: Grade [gradeId=0, dateReceived=Wed Dec 31 19:00:00 EST 1969, score=0.0, assessmentId=51, traineeId=5478]
+2019-09-03 16:01:13 DEBUG class:50 - Creating Grade: Grade [gradeId=0, dateReceived=Wed Dec 31 19:00:00 EST 1969, score=0.0, assessmentId=51, traineeId=5479]
+2019-09-03 16:01:13 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-03 16:01:13 DEBUG class:71 - Inside findGradesByBatch
+2019-09-03 16:01:13 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:01:13 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:01:13 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-03 16:01:13 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:01:13 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:01:13 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:01:13 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-03 16:01:13 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:01:13 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-03 16:01:13 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-03 16:01:15 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:01:15 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:01:17 DEBUG class:71 - Inside findGradesByBatch
+2019-09-03 16:01:17 DEBUG class:57 - Inside findNotesByBatch
+2019-09-03 16:01:17 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-03 16:01:17 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:01:17 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:01:17 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-03 16:01:17 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:01:17 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:01:17 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:01:17 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:01:17 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-03 16:01:17 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:01:17 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:01:17 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-03 16:01:17 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-03 16:01:26 DEBUG class:57 - Inside findNotesByBatch
+2019-09-03 16:01:26 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-03 16:01:26 DEBUG class:71 - Inside findGradesByBatch
+2019-09-03 16:01:26 DEBUG class:57 - Inside findNotesByBatch
+2019-09-03 16:01:26 DEBUG class:57 - Inside findNotesByBatch
+2019-09-03 16:01:28 DEBUG class:57 - Inside findNotesByBatch
+2019-09-03 16:01:28 DEBUG class:57 - Inside findNotesByBatch
+2019-09-03 16:01:28 DEBUG class:71 - Inside findGradesByBatch
+2019-09-03 16:01:28 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-03 16:01:28 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:01:29 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:01:29 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-03 16:01:29 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:01:29 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:01:29 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-03 16:01:29 DEBUG class:57 - Inside findNotesByBatch
+2019-09-03 16:01:29 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-03 16:01:29 DEBUG class:71 - Inside findGradesByBatch
+2019-09-03 16:01:37 DEBUG class:50 - Creating Grade: Grade [gradeId=0, dateReceived=Wed Dec 31 19:00:00 EST 1969, score=0.0, assessmentId=52, traineeId=5478]
+2019-09-03 16:01:37 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-03 16:01:37 DEBUG class:50 - Creating Grade: Grade [gradeId=0, dateReceived=Wed Dec 31 19:00:00 EST 1969, score=0.0, assessmentId=52, traineeId=5479]
+2019-09-03 16:01:37 DEBUG class:50 - Creating Grade: Grade [gradeId=0, dateReceived=Wed Dec 31 19:00:00 EST 1969, score=0.0, assessmentId=52, traineeId=5477]
+2019-09-03 16:01:37 DEBUG class:71 - Inside findGradesByBatch
+2019-09-03 16:01:37 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:01:37 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-03 16:01:37 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:01:37 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-03 16:01:37 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:01:37 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:01:37 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-03 16:01:37 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-03 16:01:48 DEBUG class:78 - Saving new note:com.revature.caliber.dto.NoteDTO@366c8642
+2019-09-03 16:01:48 DEBUG class:85 - Creating Note: Note [noteId=-5, noteContent=They were just ok, noteType=BATCH, weekNumber=3, batchId=2, traineeId=-1]
+2019-09-03 16:01:50 DEBUG class:87 - Updating Note: com.revature.caliber.dto.NoteDTO@2b393d20
+2019-09-03 16:01:50 DEBUG class:93 - Updating Note: Note [noteId=-5, noteContent=They were just ok, noteType=BATCH, weekNumber=3, batchId=2, traineeId=-1]
+2019-09-03 16:01:55 DEBUG class:57 - Inside findNotesByBatch
+2019-09-03 16:01:57 DEBUG class:57 - Inside findNotesByBatch
+2019-09-03 16:02:49 DEBUG class:78 - Saving new note:com.revature.caliber.dto.NoteDTO@5e07a61b
+2019-09-03 16:02:49 DEBUG class:85 - Creating Note: Note [noteId=-1, noteContent=sdf, noteType=Trainee, weekNumber=4, batchId=2, traineeId=5477]
+2019-09-03 16:02:50 DEBUG class:78 - Saving new note:com.revature.caliber.dto.NoteDTO@3362d44e
+2019-09-03 16:02:50 DEBUG class:85 - Creating Note: Note [noteId=-1, noteContent=asdf, noteType=Trainee, weekNumber=4, batchId=2, traineeId=5478]
+2019-09-03 16:02:51 DEBUG class:78 - Saving new note:com.revature.caliber.dto.NoteDTO@3e4e7f49
+2019-09-03 16:02:51 DEBUG class:85 - Creating Note: Note [noteId=-1, noteContent=, noteType=Trainee, weekNumber=4, batchId=2, traineeId=5479]
+2019-09-03 16:02:54 DEBUG class:78 - Saving new note:com.revature.caliber.dto.NoteDTO@377c7770
+2019-09-03 16:02:54 DEBUG class:85 - Creating Note: Note [noteId=-1, noteContent=fffff, noteType=Trainee, weekNumber=4, batchId=2, traineeId=5478]
+2019-09-03 16:02:56 DEBUG class:78 - Saving new note:com.revature.caliber.dto.NoteDTO@2642d39b
+2019-09-03 16:02:56 DEBUG class:85 - Creating Note: Note [noteId=-1, noteContent=sdf, noteType=Trainee, weekNumber=4, batchId=2, traineeId=5477]
+2019-09-03 16:03:15 DEBUG class:78 - Saving new note:com.revature.caliber.dto.NoteDTO@3bc8961
+2019-09-03 16:03:15 DEBUG class:85 - Creating Note: Note [noteId=-1, noteContent=sdf, noteType=Trainee, weekNumber=4, batchId=2, traineeId=5477]
+2019-09-03 16:03:15 DEBUG class:57 - Inside findNotesByBatch
+2019-09-03 16:03:17 DEBUG class:71 - Inside findGradesByBatch
+2019-09-03 16:03:17 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-03 16:03:18 DEBUG class:57 - Inside findNotesByBatch
+2019-09-03 16:03:21 DEBUG class:71 - Inside findGradesByBatch
+2019-09-03 16:03:21 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-03 16:03:23 DEBUG class:57 - Inside findNotesByBatch
+2019-09-03 16:03:23 DEBUG class:71 - Inside findGradesByBatch
+2019-09-03 16:03:23 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:03:23 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-03 16:03:23 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:03:23 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:03:23 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:03:23 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-03 16:03:23 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-03 16:03:23 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:03:23 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:03:23 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-03 16:03:23 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-03 16:03:23 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:03:23 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:03:23 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-03 16:03:23 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-03 16:03:23 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:03:23 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:03:24 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-03 16:03:24 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:03:24 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:03:24 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-03 16:03:24 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-03 16:03:25 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-03 16:03:25 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-03 16:03:25 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-03 16:03:25 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-03 16:03:25 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-03 16:03:25 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-03 16:03:25 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:03:25 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:03:25 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:03:25 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:03:25 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:03:25 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:03:25 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:03:25 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:03:25 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:03:27 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-03 16:03:44 DEBUG class:57 - Inside findNotesByBatch
+2019-09-03 16:03:53 DEBUG class:57 - Inside findNotesByBatch
+2019-09-03 16:03:53 DEBUG class:71 - Inside findGradesByBatch
+2019-09-03 16:03:53 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-03 16:03:54 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:03:54 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:03:54 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-03 16:03:54 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:03:54 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:03:54 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:03:54 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-03 16:03:54 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:03:54 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:03:54 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-03 16:03:54 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:03:54 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:03:54 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:03:54 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-03 16:03:54 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-03 16:03:54 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-03 16:03:54 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-03 16:03:54 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-03 16:03:55 DEBUG class:57 - Inside findNotesByBatch
+2019-09-03 16:03:55 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-03 16:03:55 DEBUG class:71 - Inside findGradesByBatch
+2019-09-03 16:03:56 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:03:56 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:03:56 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:03:56 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:03:56 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:03:56 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:03:58 DEBUG class:57 - Inside findNotesByBatch
+2019-09-03 16:03:58 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-03 16:03:58 DEBUG class:71 - Inside findGradesByBatch
+2019-09-03 16:03:58 DEBUG class:57 - Inside findNotesByBatch
+2019-09-03 16:04:00 DEBUG class:57 - Inside findNotesByBatch
+2019-09-03 16:04:45 DEBUG class:57 - Inside findNotesByBatch
+2019-09-03 16:04:45 DEBUG class:71 - Inside findGradesByBatch
+2019-09-03 16:04:45 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-03 16:04:45 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:04:45 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:04:45 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-03 16:04:45 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:04:45 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:04:45 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:04:45 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:04:45 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-03 16:04:45 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:04:45 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:04:45 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:04:45 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:04:45 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-03 16:04:45 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:04:45 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:04:45 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:04:45 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:04:46 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-03 16:04:46 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:04:46 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:04:46 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:04:46 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-03 16:04:46 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:04:46 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-03 16:04:46 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-03 16:04:46 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-03 16:04:46 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-03 16:04:46 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-03 16:04:46 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-03 16:04:48 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:04:48 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:04:48 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:04:48 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:09:50 DEBUG class:57 - Inside findNotesByBatch
+2019-09-03 16:09:50 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-03 16:09:50 DEBUG class:71 - Inside findGradesByBatch
+2019-09-03 16:09:50 DEBUG class:57 - Inside findNotesByBatch
+2019-09-03 16:09:50 DEBUG class:57 - Inside findNotesByBatch
+2019-09-03 16:09:50 DEBUG class:57 - Inside findNotesByBatch
+2019-09-03 16:09:56 DEBUG class:71 - Inside findGradesByBatch
+2019-09-03 16:09:56 DEBUG class:57 - Inside findNotesByBatch
+2019-09-03 16:09:56 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-03 16:09:56 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:09:56 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-03 16:09:56 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:09:56 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-03 16:10:03 DEBUG class:57 - Inside findNotesByBatch
+2019-09-03 16:10:03 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-03 16:10:03 DEBUG class:71 - Inside findGradesByBatch
+2019-09-03 16:10:03 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:10:03 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:10:03 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-03 16:10:03 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:10:03 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:10:03 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:10:03 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-03 16:10:03 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-03 16:10:05 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:10:11 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-03 16:10:11 DEBUG class:57 - Inside findNotesByBatch
+2019-09-03 16:10:11 DEBUG class:71 - Inside findGradesByBatch
+2019-09-03 16:10:11 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:10:11 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-03 16:10:11 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:10:11 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-03 16:10:11 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:10:11 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:10:11 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-03 16:10:11 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-03 16:10:13 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-03 16:10:13 DEBUG class:57 - Inside findNotesByBatch
+2019-09-03 16:10:13 DEBUG class:71 - Inside findGradesByBatch
+2019-09-03 16:10:21 DEBUG class:87 - Updating Note: com.revature.caliber.dto.NoteDTO@16c9371c
+2019-09-03 16:10:21 DEBUG class:93 - Updating Note: Note [noteId=53, noteContent=NOt good at all, noteType=Trainee, weekNumber=4, batchId=2, traineeId=5479]
+2019-09-03 16:10:30 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-03 16:10:30 DEBUG class:71 - Inside findGradesByBatch
+2019-09-03 16:10:30 DEBUG class:57 - Inside findNotesByBatch
+2019-09-03 16:10:31 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:10:31 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-03 16:10:31 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:10:31 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-03 16:10:31 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:10:31 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:10:31 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-03 16:10:31 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:10:31 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:10:31 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-03 16:10:31 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-03 16:10:31 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-03 16:10:33 DEBUG class:71 - Inside findGradesByBatch
+2019-09-03 16:10:33 DEBUG class:57 - Inside findNotesByBatch
+2019-09-03 16:10:33 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-03 16:10:33 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:10:33 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-03 16:10:33 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:10:33 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:10:33 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-03 16:10:33 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:10:33 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:10:33 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-03 16:10:33 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:10:33 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-03 16:10:33 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-03 16:10:33 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-03 16:10:38 DEBUG class:57 - Inside findNotesByBatch
+2019-09-03 16:10:42 DEBUG class:57 - Inside findNotesByBatch
+2019-09-03 16:10:42 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-03 16:10:42 DEBUG class:71 - Inside findGradesByBatch
+2019-09-03 16:10:42 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:10:42 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-03 16:10:42 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:10:42 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-03 16:10:42 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:10:42 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:10:42 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-03 16:10:42 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:10:42 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:10:42 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-03 16:10:42 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:10:42 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:10:42 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-03 16:10:42 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-03 16:10:42 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-03 16:10:42 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-03 16:11:12 DEBUG class:57 - Inside findNotesByBatch
+2019-09-03 16:11:50 DEBUG class:57 - Inside findNotesByBatch
+2019-09-03 16:16:44 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-03 16:16:44 DEBUG class:71 - Inside findGradesByBatch
+2019-09-03 16:16:44 DEBUG class:57 - Inside findNotesByBatch
+2019-09-03 16:16:44 DEBUG class:57 - Inside findNotesByBatch
+2019-09-03 16:16:44 DEBUG class:57 - Inside findNotesByBatch
+2019-09-03 16:16:44 DEBUG class:57 - Inside findNotesByBatch
+2019-09-03 16:16:46 DEBUG class:57 - Inside findNotesByBatch
+2019-09-03 16:16:59 DEBUG class:71 - Inside findGradesByBatch
+2019-09-03 16:16:59 DEBUG class:57 - Inside findNotesByBatch
+2019-09-03 16:16:59 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-03 16:16:59 DEBUG class:57 - Inside findNotesByBatch
+2019-09-03 16:17:01 DEBUG class:57 - Inside findNotesByBatch
+2019-09-03 16:17:01 DEBUG class:57 - Inside findNotesByBatch
+2019-09-03 16:23:46 DEBUG class:47 - Inside getAllGrades
+2019-09-03 16:23:48 DEBUG class:71 - Inside findGradesByBatch
+2019-09-03 16:23:48 DEBUG class:71 - Inside findGradesByBatch
+2019-09-03 16:23:49 DEBUG class:71 - Inside findGradesByBatch
+2019-09-03 16:23:49 DEBUG class:71 - Inside findGradesByBatch
+2019-09-03 16:23:50 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-03 16:23:50 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-03 16:24:06 DEBUG class:71 - Inside findGradesByBatch
+2019-09-03 16:24:06 DEBUG class:57 - Inside findNotesByBatch
+2019-09-03 16:24:06 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-03 16:24:06 DEBUG class:57 - Inside findNotesByBatch
+2019-09-03 16:24:07 DEBUG class:57 - Inside findNotesByBatch
+2019-09-03 16:24:07 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-03 16:24:07 DEBUG class:71 - Inside findGradesByBatch
+2019-09-03 16:24:08 DEBUG class:57 - Inside findNotesByBatch
+2019-09-03 16:24:09 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:24:09 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-03 16:24:09 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-03 16:24:10 DEBUG class:57 - Inside findNotesByBatch
+2019-09-03 16:24:11 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-03 16:24:13 DEBUG class:83 - Inside findGradeById
+2019-09-03 16:24:13 DEBUG class:99 - Updating Grade: com.revature.caliber.dto.GradeDTO@3aadfac5
+2019-09-03 16:24:13 DEBUG class:59 - Updating Grade: Grade [gradeId=58, dateReceived=Wed Dec 31 19:00:00 EST 1969, score=100.0, assessmentId=52, traineeId=5477]
+2019-09-03 16:24:13 DEBUG class:87 - Updating Note: com.revature.caliber.dto.NoteDTO@18ac8aba
+2019-09-03 16:24:13 DEBUG class:93 - Updating Note: Note [noteId=56, noteContent=sdf, noteType=Trainee, weekNumber=4, batchId=2, traineeId=5477]
+2019-09-03 16:24:14 DEBUG class:83 - Inside findGradeById
+2019-09-03 16:24:14 DEBUG class:99 - Updating Grade: com.revature.caliber.dto.GradeDTO@1bad2aa
+2019-09-03 16:24:14 DEBUG class:59 - Updating Grade: Grade [gradeId=56, dateReceived=Wed Dec 31 19:00:00 EST 1969, score=50.0, assessmentId=52, traineeId=5478]
+2019-09-03 16:24:14 DEBUG class:87 - Updating Note: com.revature.caliber.dto.NoteDTO@2c97781f
+2019-09-03 16:24:14 DEBUG class:93 - Updating Note: Note [noteId=54, noteContent=fffff, noteType=Trainee, weekNumber=4, batchId=2, traineeId=5478]
+2019-09-03 16:24:16 DEBUG class:83 - Inside findGradeById
+2019-09-03 16:24:16 DEBUG class:99 - Updating Grade: com.revature.caliber.dto.GradeDTO@7fdd16c5
+2019-09-03 16:24:16 DEBUG class:59 - Updating Grade: Grade [gradeId=57, dateReceived=Wed Dec 31 19:00:00 EST 1969, score=20.0, assessmentId=52, traineeId=5479]
+2019-09-03 16:24:18 DEBUG class:47 - Inside getAllGrades
+2019-09-03 16:24:18 DEBUG class:71 - Inside findGradesByBatch
+2019-09-03 16:24:18 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-03 16:24:18 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-03 16:24:18 DEBUG class:71 - Inside findGradesByBatch
+2019-09-03 16:24:18 DEBUG class:71 - Inside findGradesByBatch
+2019-09-03 16:24:18 DEBUG class:71 - Inside findGradesByBatch
+2019-09-03 16:24:24 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-03 16:24:24 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-03 16:24:24 DEBUG class:71 - Inside findGradesByBatch
+2019-09-03 16:24:25 DEBUG class:71 - Inside findGradesByBatch
+2019-09-03 16:24:25 DEBUG class:71 - Inside findGradesByBatch
+2019-09-03 16:24:25 DEBUG class:71 - Inside findGradesByBatch
+2019-09-03 16:25:01 DEBUG class:47 - Inside getAllGrades
+2019-09-03 16:25:01 DEBUG class:71 - Inside findGradesByBatch
+2019-09-03 16:25:01 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-03 16:25:01 DEBUG class:71 - Inside findGradesByBatch
+2019-09-03 16:25:01 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-03 16:25:01 DEBUG class:71 - Inside findGradesByBatch
+2019-09-03 16:25:01 DEBUG class:71 - Inside findGradesByBatch
+2019-09-03 16:26:14 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-03 16:26:14 DEBUG class:71 - Inside findGradesByBatch
+2019-09-03 16:26:14 DEBUG class:57 - Inside findNotesByBatch
+2019-09-03 16:26:14 DEBUG class:57 - Inside findNotesByBatch
+2019-09-03 16:26:16 DEBUG class:57 - Inside findNotesByBatch
+2019-09-03 16:26:17 DEBUG class:57 - Inside findNotesByBatch
+2019-09-04 08:25:03 DEBUG class:57 - Inside findNotesByBatch
+2019-09-04 08:25:03 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-04 08:25:03 DEBUG class:71 - Inside findGradesByBatch
+2019-09-04 08:25:03 DEBUG class:57 - Inside findNotesByBatch
+2019-09-04 08:25:03 DEBUG class:57 - Inside findNotesByBatch
+2019-09-04 08:25:03 DEBUG class:57 - Inside findNotesByBatch
+2019-09-04 09:38:24 DEBUG class:47 - Inside getAllGrades
+2019-09-04 09:39:04 DEBUG class:47 - Inside getAllGrades
+2019-09-04 15:06:51 DEBUG class:71 - Inside findGradesByBatch
+2019-09-04 15:06:51 DEBUG class:57 - Inside findNotesByBatch
+2019-09-04 15:06:51 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-04 15:06:51 DEBUG class:57 - Inside findNotesByBatch
+2019-09-04 15:06:51 DEBUG class:57 - Inside findNotesByBatch
+2019-09-04 15:06:51 DEBUG class:57 - Inside findNotesByBatch
+2019-09-04 15:07:36 DEBUG class:57 - Inside findNotesByBatch
+2019-09-04 15:07:36 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-04 15:07:36 DEBUG class:71 - Inside findGradesByBatch
+2019-09-04 15:07:36 DEBUG class:57 - Inside findNotesByBatch
+2019-09-04 15:07:36 DEBUG class:57 - Inside findNotesByBatch
+2019-09-04 15:07:36 DEBUG class:57 - Inside findNotesByBatch
+2019-09-04 15:08:20 DEBUG class:57 - Inside findNotesByBatch
+2019-09-04 15:08:20 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-04 15:08:20 DEBUG class:71 - Inside findGradesByBatch
+2019-09-04 15:08:20 DEBUG class:57 - Inside findNotesByBatch
+2019-09-04 15:08:20 DEBUG class:57 - Inside findNotesByBatch
+2019-09-04 15:08:20 DEBUG class:57 - Inside findNotesByBatch
+2019-09-04 15:08:48 DEBUG class:57 - Inside findNotesByBatch
+2019-09-04 15:08:48 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-04 15:08:48 DEBUG class:71 - Inside findGradesByBatch
+2019-09-04 15:08:48 DEBUG class:57 - Inside findNotesByBatch
+2019-09-04 15:08:48 DEBUG class:57 - Inside findNotesByBatch
+2019-09-04 15:08:48 DEBUG class:57 - Inside findNotesByBatch
+2019-09-04 15:11:20 DEBUG class:57 - Inside findNotesByBatch
+2019-09-04 15:11:20 DEBUG class:71 - Inside findGradesByBatch
+2019-09-04 15:11:20 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-04 15:11:20 DEBUG class:57 - Inside findNotesByBatch
+2019-09-04 15:11:20 DEBUG class:57 - Inside findNotesByBatch
+2019-09-04 15:11:20 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 08:29:38 DEBUG class:71 - Inside findGradesByBatch
+2019-09-05 08:29:38 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-05 08:29:38 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 08:29:38 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 08:29:38 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 08:29:40 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 08:29:40 DEBUG class:71 - Inside findGradesByBatch
+2019-09-05 08:29:40 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-05 08:29:41 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-05 08:29:41 DEBUG class:71 - Inside findGradesByBatch
+2019-09-05 08:29:41 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 08:29:54 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 08:30:23 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 08:33:38 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 08:33:38 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-05 08:33:38 DEBUG class:71 - Inside findGradesByBatch
+2019-09-05 08:33:38 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 08:33:39 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 08:33:54 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 08:37:31 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 08:38:34 DEBUG class:71 - Inside findGradesByBatch
+2019-09-05 08:38:34 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 08:38:34 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-05 08:38:34 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 08:38:34 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 08:41:21 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 08:41:21 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-05 08:41:21 DEBUG class:71 - Inside findGradesByBatch
+2019-09-05 08:41:21 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 08:41:21 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 08:41:21 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 08:41:30 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 08:41:31 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 08:41:33 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 08:41:36 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 08:41:36 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-05 08:41:36 DEBUG class:71 - Inside findGradesByBatch
+2019-09-05 08:41:36 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 08:41:38 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 08:41:44 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 08:41:45 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 08:41:45 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-05 08:41:45 DEBUG class:71 - Inside findGradesByBatch
+2019-09-05 08:41:45 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 08:41:54 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 08:41:59 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 08:44:53 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 08:44:53 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-05 08:44:53 DEBUG class:71 - Inside findGradesByBatch
+2019-09-05 08:44:53 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 08:44:53 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 08:44:53 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 09:25:29 DEBUG class:71 - Inside findGradesByBatch
+2019-09-05 09:25:29 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-05 09:25:29 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 09:25:29 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 09:25:29 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 09:25:30 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 09:27:07 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 09:27:07 DEBUG class:71 - Inside findGradesByBatch
+2019-09-05 09:27:07 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-05 09:27:08 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 09:27:08 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 09:27:08 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 09:27:51 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 09:27:54 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 09:27:55 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 09:27:57 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 09:28:04 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 09:28:12 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 09:28:14 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 09:28:14 DEBUG class:71 - Inside findGradesByBatch
+2019-09-05 09:28:14 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-05 09:28:14 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 09:28:16 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 09:28:16 DEBUG class:71 - Inside findGradesByBatch
+2019-09-05 09:28:16 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-05 09:28:18 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 09:28:18 DEBUG class:71 - Inside findGradesByBatch
+2019-09-05 09:28:18 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-05 09:28:18 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 09:28:25 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 09:28:51 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 09:28:51 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-05 09:28:51 DEBUG class:71 - Inside findGradesByBatch
+2019-09-05 09:28:51 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 09:28:51 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 09:28:51 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 09:30:12 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 09:39:12 DEBUG class:71 - Inside findGradesByBatch
+2019-09-05 09:39:12 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-05 09:39:12 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 09:39:12 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 09:39:12 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 09:39:12 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 09:40:08 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 09:40:16 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 09:40:54 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 09:54:14 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 09:54:14 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-05 09:54:14 DEBUG class:71 - Inside findGradesByBatch
+2019-09-05 09:54:14 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 09:55:02 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 09:55:02 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-05 09:55:02 DEBUG class:71 - Inside findGradesByBatch
+2019-09-05 09:55:02 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 09:55:04 DEBUG class:71 - Inside findGradesByBatch
+2019-09-05 09:55:04 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-05 09:55:04 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 09:55:05 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 09:55:05 DEBUG class:71 - Inside findGradesByBatch
+2019-09-05 09:55:05 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-05 09:55:13 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 09:55:34 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 09:56:29 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-05 09:56:29 DEBUG class:50 - Creating Grade: Grade [gradeId=0, dateReceived=Wed Dec 31 19:00:00 EST 1969, score=0.0, assessmentId=50, traineeId=5477]
+2019-09-05 09:56:29 DEBUG class:50 - Creating Grade: Grade [gradeId=0, dateReceived=Wed Dec 31 19:00:00 EST 1969, score=0.0, assessmentId=50, traineeId=5478]
+2019-09-05 09:56:29 DEBUG class:50 - Creating Grade: Grade [gradeId=0, dateReceived=Wed Dec 31 19:00:00 EST 1969, score=0.0, assessmentId=50, traineeId=5479]
+2019-09-05 09:56:30 DEBUG class:71 - Inside findGradesByBatch
+2019-09-05 09:56:30 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-05 09:56:30 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 09:56:30 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 09:56:30 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-05 09:56:30 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 09:56:30 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 09:56:30 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-05 09:56:30 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-05 09:59:45 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-05 09:59:45 DEBUG class:71 - Inside findGradesByBatch
+2019-09-05 09:59:45 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 09:59:45 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 09:59:45 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 09:59:45 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-05 10:00:13 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 10:00:13 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-05 10:00:13 DEBUG class:71 - Inside findGradesByBatch
+2019-09-05 10:00:13 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 10:00:13 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 10:00:13 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-05 10:00:14 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 10:00:14 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-05 10:00:14 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 10:00:14 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-05 10:00:15 DEBUG class:66 - Inside findAssessmentById
+2019-09-05 10:00:15 DEBUG class:66 - Inside findAssessmentById
+2019-09-05 10:00:18 DEBUG class:83 - Updating Assessment: com.revature.caliber.dto.AssessmentDTO@36c1f43a
+2019-09-05 10:00:18 DEBUG class:71 - Updating Assessment: Assessment [assessmentId=50, rawScore=100, assessmentTitle=, assessmentType=Exam, weekNumber=2, batchId=2, assessmentCategory=2]
+2019-09-05 10:00:18 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-05 10:00:18 DEBUG class:71 - Inside findGradesByBatch
+2019-09-05 10:00:18 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 10:00:18 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-05 10:00:18 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 10:00:18 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-05 10:00:18 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 10:00:18 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 10:00:18 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-05 10:00:18 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 10:00:19 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-05 10:00:19 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-05 10:02:23 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 10:02:23 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-05 10:02:23 DEBUG class:71 - Inside findGradesByBatch
+2019-09-05 10:02:23 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 10:02:24 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 10:02:24 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-05 10:02:49 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 10:02:49 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-05 10:02:49 DEBUG class:71 - Inside findGradesByBatch
+2019-09-05 10:02:49 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 10:02:49 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 10:02:49 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-05 10:04:56 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 10:04:56 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-05 10:04:56 DEBUG class:71 - Inside findGradesByBatch
+2019-09-05 10:04:56 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 10:04:56 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 10:04:56 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-05 10:06:32 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 10:06:32 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-05 10:06:32 DEBUG class:71 - Inside findGradesByBatch
+2019-09-05 10:06:32 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 10:06:32 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 10:06:32 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-05 10:07:18 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 10:07:18 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-05 10:07:18 DEBUG class:71 - Inside findGradesByBatch
+2019-09-05 10:07:18 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 10:08:10 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 10:08:10 DEBUG class:71 - Inside findGradesByBatch
+2019-09-05 10:08:10 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-05 10:08:10 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 10:08:10 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 10:08:10 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-05 10:10:16 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-05 10:10:16 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 10:10:16 DEBUG class:71 - Inside findGradesByBatch
+2019-09-05 10:10:16 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 10:10:16 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 10:10:16 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-05 10:11:35 DEBUG class:71 - Inside findGradesByBatch
+2019-09-05 10:11:35 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 10:11:35 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-05 10:11:36 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 10:11:36 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 10:11:36 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-05 10:11:56 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 10:11:56 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-05 10:11:56 DEBUG class:71 - Inside findGradesByBatch
+2019-09-05 10:11:56 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 10:11:56 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 10:11:56 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-05 10:12:14 DEBUG class:50 - Creating Grade: Grade [gradeId=0, dateReceived=Wed Dec 31 19:00:00 EST 1969, score=0.0, assessmentId=51, traineeId=5477]
+2019-09-05 10:12:14 DEBUG class:50 - Creating Grade: Grade [gradeId=0, dateReceived=Wed Dec 31 19:00:00 EST 1969, score=0.0, assessmentId=51, traineeId=5479]
+2019-09-05 10:12:14 DEBUG class:50 - Creating Grade: Grade [gradeId=0, dateReceived=Wed Dec 31 19:00:00 EST 1969, score=0.0, assessmentId=51, traineeId=5478]
+2019-09-05 10:12:14 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-05 10:12:14 DEBUG class:71 - Inside findGradesByBatch
+2019-09-05 10:12:14 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 10:12:14 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 10:12:14 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-05 10:12:14 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 10:12:14 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 10:12:14 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-05 10:12:24 DEBUG class:50 - Creating Grade: Grade [gradeId=0, dateReceived=Wed Dec 31 19:00:00 EST 1969, score=0.0, assessmentId=52, traineeId=5477]
+2019-09-05 10:12:24 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-05 10:12:24 DEBUG class:50 - Creating Grade: Grade [gradeId=0, dateReceived=Wed Dec 31 19:00:00 EST 1969, score=0.0, assessmentId=52, traineeId=5479]
+2019-09-05 10:12:24 DEBUG class:50 - Creating Grade: Grade [gradeId=0, dateReceived=Wed Dec 31 19:00:00 EST 1969, score=0.0, assessmentId=52, traineeId=5478]
+2019-09-05 10:12:24 DEBUG class:71 - Inside findGradesByBatch
+2019-09-05 10:12:24 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 10:12:24 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 10:12:24 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 10:12:24 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-05 10:12:24 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 10:12:24 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 10:12:24 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 10:12:24 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 10:12:24 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 10:12:24 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 10:12:24 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-05 10:12:24 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-05 10:12:57 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-05 10:12:57 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 10:12:57 DEBUG class:71 - Inside findGradesByBatch
+2019-09-05 10:12:57 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 10:12:57 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 10:12:57 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 10:12:57 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 10:12:57 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-05 10:13:02 DEBUG class:66 - Inside findAssessmentById
+2019-09-05 10:13:03 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-05 10:13:03 DEBUG class:71 - Inside findGradesByBatch
+2019-09-05 10:13:03 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 10:13:03 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 10:13:03 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-05 10:13:04 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 10:13:04 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 10:13:04 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-05 10:13:04 DEBUG class:66 - Inside findAssessmentById
+2019-09-05 10:13:05 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-05 10:13:05 DEBUG class:71 - Inside findGradesByBatch
+2019-09-05 10:13:05 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 10:13:05 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-05 10:13:05 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 10:13:05 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-05 10:13:05 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 10:13:05 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-05 10:13:06 DEBUG class:66 - Inside findAssessmentById
+2019-09-05 10:13:07 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-05 10:13:07 DEBUG class:71 - Inside findGradesByBatch
+2019-09-05 10:13:29 DEBUG class:71 - Inside findGradesByBatch
+2019-09-05 10:13:29 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-05 10:13:29 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 10:13:29 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 10:14:33 DEBUG class:71 - Inside findGradesByBatch
+2019-09-05 10:14:33 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 10:14:33 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-05 10:14:34 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 10:15:09 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 10:15:09 DEBUG class:71 - Inside findGradesByBatch
+2019-09-05 10:15:09 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-05 10:15:09 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 10:18:02 DEBUG class:71 - Inside findGradesByBatch
+2019-09-05 10:18:02 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 10:18:02 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-05 10:18:02 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 10:20:36 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 10:20:36 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-05 10:20:36 DEBUG class:71 - Inside findGradesByBatch
+2019-09-05 10:20:36 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 10:21:05 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 10:21:05 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-05 10:21:05 DEBUG class:71 - Inside findGradesByBatch
+2019-09-05 10:21:05 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 10:21:36 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-05 10:21:36 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 10:21:36 DEBUG class:71 - Inside findGradesByBatch
+2019-09-05 10:21:36 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 10:22:11 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-05 10:22:11 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 10:22:11 DEBUG class:71 - Inside findGradesByBatch
+2019-09-05 10:22:11 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 10:22:44 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 10:22:44 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-05 10:22:44 DEBUG class:71 - Inside findGradesByBatch
+2019-09-05 10:22:44 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 10:23:46 DEBUG class:50 - Creating Grade: Grade [gradeId=0, dateReceived=Wed Dec 31 19:00:00 EST 1969, score=0.0, assessmentId=53, traineeId=5477]
+2019-09-05 10:23:46 DEBUG class:50 - Creating Grade: Grade [gradeId=0, dateReceived=Wed Dec 31 19:00:00 EST 1969, score=0.0, assessmentId=53, traineeId=5478]
+2019-09-05 10:23:46 DEBUG class:50 - Creating Grade: Grade [gradeId=0, dateReceived=Wed Dec 31 19:00:00 EST 1969, score=0.0, assessmentId=53, traineeId=5479]
+2019-09-05 10:23:46 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-05 10:23:46 DEBUG class:71 - Inside findGradesByBatch
+2019-09-05 10:23:46 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 10:23:46 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-05 10:23:46 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 10:23:46 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-05 10:25:07 DEBUG class:71 - Inside findGradesByBatch
+2019-09-05 10:25:07 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-05 10:25:07 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 10:25:07 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 10:25:11 DEBUG class:66 - Inside findAssessmentById
+2019-09-05 10:25:12 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-05 10:25:12 DEBUG class:71 - Inside findGradesByBatch
+2019-09-05 10:25:48 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 10:25:48 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-05 10:25:48 DEBUG class:71 - Inside findGradesByBatch
+2019-09-05 10:25:48 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 10:25:58 DEBUG class:50 - Creating Grade: Grade [gradeId=0, dateReceived=Wed Dec 31 19:00:00 EST 1969, score=0.0, assessmentId=54, traineeId=5477]
+2019-09-05 10:25:58 DEBUG class:50 - Creating Grade: Grade [gradeId=0, dateReceived=Wed Dec 31 19:00:00 EST 1969, score=0.0, assessmentId=54, traineeId=5478]
+2019-09-05 10:25:58 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-05 10:25:58 DEBUG class:50 - Creating Grade: Grade [gradeId=0, dateReceived=Wed Dec 31 19:00:00 EST 1969, score=0.0, assessmentId=54, traineeId=5479]
+2019-09-05 10:25:58 DEBUG class:71 - Inside findGradesByBatch
+2019-09-05 10:25:58 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 10:25:58 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-05 10:25:58 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 10:25:58 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-05 10:27:13 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 10:27:13 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-05 10:27:13 DEBUG class:71 - Inside findGradesByBatch
+2019-09-05 10:27:13 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 10:27:13 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 10:27:13 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-05 10:27:39 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 10:27:39 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-05 10:27:39 DEBUG class:71 - Inside findGradesByBatch
+2019-09-05 10:27:39 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 10:27:39 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 10:27:39 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-05 10:28:48 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 10:28:48 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-05 10:28:48 DEBUG class:71 - Inside findGradesByBatch
+2019-09-05 10:28:48 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 10:29:20 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 10:29:20 DEBUG class:71 - Inside findGradesByBatch
+2019-09-05 10:29:20 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-05 10:29:20 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 10:29:21 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 10:29:21 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-05 10:30:40 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-05 10:30:40 DEBUG class:50 - Creating Grade: Grade [gradeId=0, dateReceived=Wed Dec 31 19:00:00 EST 1969, score=0.0, assessmentId=55, traineeId=5477]
+2019-09-05 10:30:40 DEBUG class:50 - Creating Grade: Grade [gradeId=0, dateReceived=Wed Dec 31 19:00:00 EST 1969, score=0.0, assessmentId=55, traineeId=5478]
+2019-09-05 10:30:40 DEBUG class:50 - Creating Grade: Grade [gradeId=0, dateReceived=Wed Dec 31 19:00:00 EST 1969, score=0.0, assessmentId=55, traineeId=5479]
+2019-09-05 10:30:40 DEBUG class:71 - Inside findGradesByBatch
+2019-09-05 10:30:40 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 10:30:40 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 10:30:40 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-05 10:30:40 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 10:30:40 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 10:30:40 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-05 10:31:55 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 10:31:55 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-05 10:31:55 DEBUG class:71 - Inside findGradesByBatch
+2019-09-05 10:31:55 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 10:31:56 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 10:31:56 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 10:31:56 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-05 10:33:48 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-05 10:33:48 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 10:33:48 DEBUG class:71 - Inside findGradesByBatch
+2019-09-05 10:33:48 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 10:33:48 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 10:33:48 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 10:33:48 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-05 10:34:22 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 10:34:22 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-05 10:34:22 DEBUG class:71 - Inside findGradesByBatch
+2019-09-05 10:34:22 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 10:35:17 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 10:35:17 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-05 10:35:17 DEBUG class:71 - Inside findGradesByBatch
+2019-09-05 10:35:17 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 10:35:17 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 10:35:17 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 10:35:17 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-05 10:36:22 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-05 10:36:22 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 10:36:22 DEBUG class:71 - Inside findGradesByBatch
+2019-09-05 10:36:22 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 10:36:22 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 10:36:22 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 10:36:22 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-05 10:36:56 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 10:36:56 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-05 10:36:56 DEBUG class:71 - Inside findGradesByBatch
+2019-09-05 10:36:56 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 10:37:02 DEBUG class:66 - Inside findAssessmentById
+2019-09-05 10:37:03 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-05 10:37:03 DEBUG class:71 - Inside findGradesByBatch
+2019-09-05 10:37:03 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 10:37:03 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-05 10:37:04 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 10:37:04 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-05 10:37:04 DEBUG class:66 - Inside findAssessmentById
+2019-09-05 10:37:06 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-05 10:37:06 DEBUG class:71 - Inside findGradesByBatch
+2019-09-05 10:38:53 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 10:38:53 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-05 10:38:53 DEBUG class:71 - Inside findGradesByBatch
+2019-09-05 10:38:53 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 10:39:03 DEBUG class:50 - Creating Grade: Grade [gradeId=0, dateReceived=Wed Dec 31 19:00:00 EST 1969, score=0.0, assessmentId=56, traineeId=5477]
+2019-09-05 10:39:03 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-05 10:39:03 DEBUG class:50 - Creating Grade: Grade [gradeId=0, dateReceived=Wed Dec 31 19:00:00 EST 1969, score=0.0, assessmentId=56, traineeId=5479]
+2019-09-05 10:39:03 DEBUG class:50 - Creating Grade: Grade [gradeId=0, dateReceived=Wed Dec 31 19:00:00 EST 1969, score=0.0, assessmentId=56, traineeId=5478]
+2019-09-05 10:39:03 DEBUG class:71 - Inside findGradesByBatch
+2019-09-05 10:39:03 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 10:39:03 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-05 10:39:03 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 10:39:03 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-05 10:39:09 DEBUG class:50 - Creating Grade: Grade [gradeId=0, dateReceived=Wed Dec 31 19:00:00 EST 1969, score=0.0, assessmentId=57, traineeId=5477]
+2019-09-05 10:39:09 DEBUG class:50 - Creating Grade: Grade [gradeId=0, dateReceived=Wed Dec 31 19:00:00 EST 1969, score=0.0, assessmentId=57, traineeId=5478]
+2019-09-05 10:39:09 DEBUG class:50 - Creating Grade: Grade [gradeId=0, dateReceived=Wed Dec 31 19:00:00 EST 1969, score=0.0, assessmentId=57, traineeId=5479]
+2019-09-05 10:39:09 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-05 10:39:09 DEBUG class:71 - Inside findGradesByBatch
+2019-09-05 10:39:09 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 10:39:09 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 10:39:09 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-05 10:39:09 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 10:39:09 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 10:39:09 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 10:39:09 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 10:39:09 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-05 10:39:09 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-05 10:40:24 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 10:40:24 DEBUG class:71 - Inside findGradesByBatch
+2019-09-05 10:40:24 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-05 10:40:25 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 10:40:25 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 10:40:25 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 10:40:25 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-05 10:40:47 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-05 10:40:47 DEBUG class:71 - Inside findGradesByBatch
+2019-09-05 10:40:47 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 10:40:47 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 10:41:34 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 10:41:34 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-05 10:41:34 DEBUG class:71 - Inside findGradesByBatch
+2019-09-05 10:41:34 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 10:41:34 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 10:41:34 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 10:41:35 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-05 10:42:40 DEBUG class:71 - Inside findGradesByBatch
+2019-09-05 10:42:40 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-05 10:42:40 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 10:42:40 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 10:42:41 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 10:42:41 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 10:42:41 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-05 10:44:51 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 10:44:51 DEBUG class:71 - Inside findGradesByBatch
+2019-09-05 10:44:51 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-05 10:44:51 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 10:44:51 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 10:44:51 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 10:44:51 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-05 10:45:28 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 10:45:28 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-05 10:45:28 DEBUG class:71 - Inside findGradesByBatch
+2019-09-05 10:45:28 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 10:45:28 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 10:45:28 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 10:45:28 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-05 10:46:29 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 10:46:29 DEBUG class:71 - Inside findGradesByBatch
+2019-09-05 10:46:29 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-05 10:46:29 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 10:46:32 DEBUG class:66 - Inside findAssessmentById
+2019-09-05 10:46:33 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-05 10:46:33 DEBUG class:71 - Inside findGradesByBatch
+2019-09-05 10:46:33 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 10:46:33 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-05 10:46:33 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 10:46:33 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-05 10:46:34 DEBUG class:66 - Inside findAssessmentById
+2019-09-05 10:46:35 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-05 10:46:35 DEBUG class:71 - Inside findGradesByBatch
+2019-09-05 10:47:58 DEBUG class:71 - Inside findGradesByBatch
+2019-09-05 10:47:58 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-05 10:47:58 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 10:47:58 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 10:48:42 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 10:48:42 DEBUG class:71 - Inside findGradesByBatch
+2019-09-05 10:48:42 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-05 10:48:42 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 10:49:50 DEBUG class:50 - Creating Grade: Grade [gradeId=0, dateReceived=Wed Dec 31 19:00:00 EST 1969, score=0.0, assessmentId=58, traineeId=5478]
+2019-09-05 10:49:50 DEBUG class:50 - Creating Grade: Grade [gradeId=0, dateReceived=Wed Dec 31 19:00:00 EST 1969, score=0.0, assessmentId=58, traineeId=5477]
+2019-09-05 10:49:50 DEBUG class:50 - Creating Grade: Grade [gradeId=0, dateReceived=Wed Dec 31 19:00:00 EST 1969, score=0.0, assessmentId=58, traineeId=5479]
+2019-09-05 10:49:50 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-05 10:49:50 DEBUG class:71 - Inside findGradesByBatch
+2019-09-05 10:49:50 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 10:49:50 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-05 10:49:50 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 10:49:50 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-05 10:50:44 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 10:50:44 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-05 10:50:44 DEBUG class:71 - Inside findGradesByBatch
+2019-09-05 10:50:44 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 10:50:45 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 10:50:45 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-05 10:51:03 DEBUG class:50 - Creating Grade: Grade [gradeId=0, dateReceived=Wed Dec 31 19:00:00 EST 1969, score=0.0, assessmentId=59, traineeId=5477]
+2019-09-05 10:51:03 DEBUG class:50 - Creating Grade: Grade [gradeId=0, dateReceived=Wed Dec 31 19:00:00 EST 1969, score=0.0, assessmentId=59, traineeId=5478]
+2019-09-05 10:51:03 DEBUG class:50 - Creating Grade: Grade [gradeId=0, dateReceived=Wed Dec 31 19:00:00 EST 1969, score=0.0, assessmentId=59, traineeId=5479]
+2019-09-05 10:51:03 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-05 10:51:03 DEBUG class:71 - Inside findGradesByBatch
+2019-09-05 10:51:03 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 10:51:03 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 10:51:03 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-05 10:51:03 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 10:51:03 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 10:51:03 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-05 10:51:49 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 10:51:49 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-05 10:51:49 DEBUG class:71 - Inside findGradesByBatch
+2019-09-05 10:51:49 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 10:51:49 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 10:51:49 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 10:51:49 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-05 10:52:00 DEBUG class:50 - Creating Grade: Grade [gradeId=0, dateReceived=Wed Dec 31 19:00:00 EST 1969, score=0.0, assessmentId=60, traineeId=5478]
+2019-09-05 10:52:00 DEBUG class:50 - Creating Grade: Grade [gradeId=0, dateReceived=Wed Dec 31 19:00:00 EST 1969, score=0.0, assessmentId=60, traineeId=5477]
+2019-09-05 10:52:00 DEBUG class:50 - Creating Grade: Grade [gradeId=0, dateReceived=Wed Dec 31 19:00:00 EST 1969, score=0.0, assessmentId=60, traineeId=5479]
+2019-09-05 10:52:00 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-05 10:52:00 DEBUG class:71 - Inside findGradesByBatch
+2019-09-05 10:52:00 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 10:52:00 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 10:52:00 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 10:52:00 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-05 10:52:00 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 10:52:00 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 10:52:00 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 10:52:00 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-05 10:53:05 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 10:53:05 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-05 10:53:05 DEBUG class:71 - Inside findGradesByBatch
+2019-09-05 10:53:05 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 10:53:39 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 10:53:39 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-05 10:53:39 DEBUG class:71 - Inside findGradesByBatch
+2019-09-05 10:53:39 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 10:53:39 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 10:53:39 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 10:53:39 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 10:53:39 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-05 10:53:50 DEBUG class:66 - Inside findAssessmentById
+2019-09-05 10:53:51 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-05 10:53:51 DEBUG class:71 - Inside findGradesByBatch
+2019-09-05 10:53:51 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 10:53:51 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 10:53:51 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-05 10:53:51 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 10:53:51 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 10:53:51 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-05 10:54:33 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 10:54:33 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-05 10:54:33 DEBUG class:71 - Inside findGradesByBatch
+2019-09-05 10:54:33 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 10:54:33 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 10:54:33 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 10:54:33 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-05 10:55:13 DEBUG class:66 - Inside findAssessmentById
+2019-09-05 10:55:14 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-05 10:55:14 DEBUG class:71 - Inside findGradesByBatch
+2019-09-05 10:55:14 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 10:55:14 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-05 10:55:14 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 10:55:14 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-05 10:55:49 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 10:55:49 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-05 10:55:49 DEBUG class:71 - Inside findGradesByBatch
+2019-09-05 10:55:49 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 10:55:49 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 10:55:49 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-05 10:56:18 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 10:56:18 DEBUG class:71 - Inside findGradesByBatch
+2019-09-05 10:56:18 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-05 10:56:18 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 10:56:23 DEBUG class:66 - Inside findAssessmentById
+2019-09-05 10:56:24 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-05 10:56:24 DEBUG class:71 - Inside findGradesByBatch
+2019-09-05 11:06:52 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-05 11:06:52 DEBUG class:50 - Creating Grade: Grade [gradeId=0, dateReceived=Wed Dec 31 19:00:00 EST 1969, score=0.0, assessmentId=61, traineeId=5477]
+2019-09-05 11:06:52 DEBUG class:50 - Creating Grade: Grade [gradeId=0, dateReceived=Wed Dec 31 19:00:00 EST 1969, score=0.0, assessmentId=61, traineeId=5478]
+2019-09-05 11:06:52 DEBUG class:50 - Creating Grade: Grade [gradeId=0, dateReceived=Wed Dec 31 19:00:00 EST 1969, score=0.0, assessmentId=61, traineeId=5479]
+2019-09-05 11:06:52 DEBUG class:71 - Inside findGradesByBatch
+2019-09-05 11:06:52 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 11:06:52 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-05 11:06:52 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 11:06:52 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-05 11:06:52 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 11:06:52 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-05 11:07:25 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 11:07:25 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-05 11:07:25 DEBUG class:71 - Inside findGradesByBatch
+2019-09-05 11:07:26 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 11:07:26 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 11:07:26 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-05 11:07:57 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 11:07:57 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-05 11:07:57 DEBUG class:71 - Inside findGradesByBatch
+2019-09-05 11:07:57 DEBUG class:57 - Inside findNotesByBatch
+2019-09-05 11:07:57 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 11:07:57 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-05 11:08:21 DEBUG class:50 - Creating Grade: Grade [gradeId=0, dateReceived=Wed Dec 31 19:00:00 EST 1969, score=0.0, assessmentId=62, traineeId=5477]
+2019-09-05 11:08:21 DEBUG class:50 - Creating Grade: Grade [gradeId=0, dateReceived=Wed Dec 31 19:00:00 EST 1969, score=0.0, assessmentId=62, traineeId=5479]
+2019-09-05 11:08:21 DEBUG class:50 - Creating Grade: Grade [gradeId=0, dateReceived=Wed Dec 31 19:00:00 EST 1969, score=0.0, assessmentId=62, traineeId=5478]
+2019-09-05 11:08:21 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-05 11:08:21 DEBUG class:71 - Inside findGradesByBatch
+2019-09-05 11:08:21 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 11:08:21 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 11:08:21 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-05 11:08:21 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 11:08:21 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 11:08:21 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-05 11:08:30 DEBUG class:50 - Creating Grade: Grade [gradeId=0, dateReceived=Wed Dec 31 19:00:00 EST 1969, score=0.0, assessmentId=63, traineeId=5477]
+2019-09-05 11:08:30 DEBUG class:50 - Creating Grade: Grade [gradeId=0, dateReceived=Wed Dec 31 19:00:00 EST 1969, score=0.0, assessmentId=63, traineeId=5478]
+2019-09-05 11:08:30 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-05 11:08:30 DEBUG class:50 - Creating Grade: Grade [gradeId=0, dateReceived=Wed Dec 31 19:00:00 EST 1969, score=0.0, assessmentId=63, traineeId=5479]
+2019-09-05 11:08:30 DEBUG class:71 - Inside findGradesByBatch
+2019-09-05 11:08:30 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 11:08:30 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 11:08:30 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 11:08:30 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-05 11:08:30 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 11:08:30 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 11:08:30 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 11:08:30 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 11:08:30 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 11:08:30 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 11:08:30 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-05 11:08:30 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-05 11:08:34 DEBUG class:66 - Inside findAssessmentById
+2019-09-05 11:08:35 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-05 11:08:35 DEBUG class:71 - Inside findGradesByBatch
+2019-09-05 11:08:35 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 11:08:35 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 11:08:35 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-05 11:08:35 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 11:08:35 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 11:08:35 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 11:08:35 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 11:08:35 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 11:08:35 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-05 11:08:35 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 11:08:35 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-05 11:08:35 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-05 11:08:35 DEBUG class:66 - Inside findAssessmentById
+2019-09-05 11:08:36 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-05 11:08:36 DEBUG class:71 - Inside findGradesByBatch
+2019-09-05 11:08:36 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 11:08:36 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-05 11:08:36 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 11:08:36 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 11:08:36 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-05 11:08:36 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 11:08:36 DEBUG class:117 - Inside findAverageGradeByAssessment
+2019-09-05 11:08:36 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-05 11:08:36 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-05 11:08:36 DEBUG class:122 - Inside findAverageGradeByWeek
+2019-09-05 11:08:37 DEBUG class:66 - Inside findAssessmentById
+2019-09-05 11:08:38 DEBUG class:48 - Inside findAssessmentsByBatch
+2019-09-05 11:08:38 DEBUG class:71 - Inside findGradesByBatch

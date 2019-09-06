@@ -1,0 +1,1157 @@
+2019-09-03 10:18:55 DEBUG CategoryController:51 - Fetching category
+2019-09-03 10:18:55 DEBUG CategoryController:58 - Getting all categories
+2019-09-03 10:18:57 DEBUG CategoryController:51 - Fetching category
+2019-09-03 10:18:57 DEBUG CategoryController:58 - Getting all categories
+2019-09-03 10:21:17 DEBUG CategoryController:51 - Fetching category
+2019-09-03 10:21:17 DEBUG CategoryController:58 - Getting all categories
+2019-09-03 10:21:17 DEBUG CategoryController:51 - Fetching category
+2019-09-03 10:21:17 DEBUG CategoryController:58 - Getting all categories
+2019-09-03 11:14:56 DEBUG CategoryController:51 - Fetching category
+2019-09-03 11:14:56 DEBUG CategoryController:58 - Getting all categories
+2019-09-03 11:14:56 DEBUG CategoryController:51 - Fetching category
+2019-09-03 11:14:56 DEBUG CategoryController:58 - Getting all categories
+2019-09-03 11:15:39 DEBUG CategoryController:51 - Fetching category
+2019-09-03 11:15:39 DEBUG CategoryController:58 - Getting all categories
+2019-09-03 11:15:39 DEBUG CategoryController:51 - Fetching category
+2019-09-03 11:15:39 DEBUG CategoryController:58 - Getting all categories
+2019-09-03 15:32:52 DEBUG CategoryController:51 - Fetching category
+2019-09-03 15:32:52 DEBUG CategoryController:58 - Getting all categories
+2019-09-03 15:32:52 DEBUG CategoryController:51 - Fetching category
+2019-09-03 15:32:52 DEBUG CategoryController:58 - Getting all categories
+2019-09-03 15:32:58 DEBUG CategoryController:51 - Fetching category
+2019-09-03 15:32:58 DEBUG CategoryController:58 - Getting all categories
+2019-09-03 15:32:58 DEBUG CategoryController:51 - Fetching category
+2019-09-03 15:32:58 DEBUG CategoryController:58 - Getting all categories
+2019-09-03 15:39:17 DEBUG CategoryController:51 - Fetching category
+2019-09-03 15:39:17 DEBUG CategoryController:58 - Getting all categories
+2019-09-03 15:39:17 DEBUG CategoryController:51 - Fetching category
+2019-09-03 15:39:17 DEBUG CategoryController:58 - Getting all categories
+2019-09-03 15:39:39 DEBUG CategoryController:51 - Fetching category
+2019-09-03 15:39:39 DEBUG CategoryController:58 - Getting all categories
+2019-09-03 15:39:39 DEBUG CategoryController:51 - Fetching category
+2019-09-03 15:39:39 DEBUG CategoryController:58 - Getting all categories
+2019-09-03 15:42:37 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 15:44:04 DEBUG CategoryController:51 - Fetching category
+2019-09-03 15:44:04 DEBUG CategoryController:58 - Getting all categories
+2019-09-03 15:44:04 DEBUG CategoryController:51 - Fetching category
+2019-09-03 15:44:04 DEBUG CategoryController:58 - Getting all categories
+2019-09-03 15:44:26 DEBUG CategoryController:51 - Fetching category
+2019-09-03 15:44:26 DEBUG CategoryController:58 - Getting all categories
+2019-09-03 15:44:26 DEBUG CategoryController:51 - Fetching category
+2019-09-03 15:44:26 DEBUG CategoryController:58 - Getting all categories
+2019-09-03 15:44:32 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 15:44:34 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 15:44:54 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 15:44:54 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 15:44:58 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 15:44:58 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 15:45:09 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 15:45:11 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 15:45:12 DEBUG CategoryController:51 - Fetching category
+2019-09-03 15:45:12 DEBUG CategoryController:58 - Getting all categories
+2019-09-03 15:45:12 DEBUG CategoryController:51 - Fetching category
+2019-09-03 15:45:12 DEBUG CategoryController:58 - Getting all categories
+2019-09-03 15:45:12 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 15:45:14 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 15:45:15 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 15:45:15 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 15:45:19 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 15:45:19 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 15:45:20 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 15:45:20 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 15:45:32 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 15:45:32 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 15:45:52 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 15:45:52 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 15:45:55 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 15:45:55 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 15:48:30 DEBUG CategoryController:51 - Fetching category
+2019-09-03 15:48:30 DEBUG CategoryController:58 - Getting all categories
+2019-09-03 15:48:30 DEBUG CategoryController:51 - Fetching category
+2019-09-03 15:48:30 DEBUG CategoryController:58 - Getting all categories
+2019-09-03 15:58:44 DEBUG CategoryController:51 - Fetching category
+2019-09-03 15:58:44 DEBUG CategoryController:58 - Getting all categories
+2019-09-03 15:59:04 DEBUG CategoryController:51 - Fetching category
+2019-09-03 15:59:04 DEBUG CategoryController:58 - Getting all categories
+2019-09-03 16:00:28 DEBUG CategoryController:51 - Fetching category
+2019-09-03 16:00:28 DEBUG CategoryController:58 - Getting all categories
+2019-09-03 16:00:28 DEBUG CategoryController:51 - Fetching category
+2019-09-03 16:00:28 DEBUG CategoryController:58 - Getting all categories
+2019-09-03 16:00:53 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:00:53 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:00:54 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:00:54 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:00:54 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:00:54 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:00:56 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:00:56 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:01:13 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:01:13 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:01:13 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:01:13 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:01:13 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:01:13 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:01:13 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:01:13 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:01:15 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:01:15 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:01:15 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:01:15 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:01:15 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:01:15 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:01:17 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:01:17 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:01:17 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:01:17 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:01:17 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:01:17 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:01:17 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:01:17 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:01:17 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:01:17 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:01:17 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:01:17 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:01:26 DEBUG CategoryController:51 - Fetching category
+2019-09-03 16:01:26 DEBUG CategoryController:58 - Getting all categories
+2019-09-03 16:01:26 DEBUG CategoryController:51 - Fetching category
+2019-09-03 16:01:26 DEBUG CategoryController:58 - Getting all categories
+2019-09-03 16:01:28 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:01:28 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:01:29 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:01:29 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:01:29 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:01:29 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:01:29 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:01:29 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:01:37 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:01:37 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:01:37 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:01:37 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:01:37 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:01:37 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:01:37 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:01:37 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:01:37 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:01:37 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:03:23 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:03:23 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:03:23 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:03:23 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:03:23 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:03:23 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:03:23 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:03:23 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:03:23 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:03:23 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:03:23 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:03:23 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:03:24 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:03:24 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:03:24 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:03:24 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:03:24 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:03:24 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:03:24 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:03:24 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:03:24 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:03:25 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:03:25 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:03:25 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:03:25 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:03:25 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:03:25 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:03:25 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:03:25 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:03:25 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:03:25 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:03:25 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:03:25 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:03:25 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:03:25 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:03:25 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:03:25 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:03:25 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:03:25 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:03:25 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:03:27 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:03:54 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:03:54 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:03:54 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:03:54 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:03:54 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:03:54 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:03:54 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:03:54 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:03:54 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:03:54 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:03:54 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:03:54 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:03:54 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:03:54 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:03:54 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:03:54 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:03:54 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:03:54 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:03:54 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:03:54 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:03:54 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:03:54 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:03:54 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:03:54 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:03:54 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:03:54 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:04:45 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:04:45 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:04:45 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:04:45 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:04:45 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:04:45 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:04:45 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:04:45 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:04:45 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:04:45 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:04:45 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:04:45 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:04:45 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:04:45 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:04:45 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:04:45 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:04:45 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:04:45 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:04:45 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:04:45 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:04:45 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:04:45 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:04:45 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:04:45 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:04:46 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:04:46 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:04:46 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:04:46 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:04:46 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:04:46 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:04:46 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:04:46 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:04:46 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:04:46 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:04:46 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:09:42 DEBUG CategoryController:51 - Fetching category
+2019-09-03 16:09:42 DEBUG CategoryController:58 - Getting all categories
+2019-09-03 16:09:42 DEBUG CategoryController:51 - Fetching category
+2019-09-03 16:09:42 DEBUG CategoryController:58 - Getting all categories
+2019-09-03 16:09:56 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:09:56 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:09:56 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:09:56 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:09:56 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:09:56 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:10:03 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:10:03 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:10:03 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:10:03 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:10:03 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:10:03 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:10:03 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:10:03 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:10:03 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:10:03 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:10:03 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:10:11 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:10:11 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:10:11 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:10:11 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:10:11 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:10:11 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:10:11 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:10:11 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:10:11 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:10:11 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:10:31 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:10:31 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:10:31 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:10:31 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:10:31 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:10:31 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:10:31 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:10:31 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:10:31 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:10:31 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:10:31 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:10:31 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:10:31 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:10:31 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:10:33 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:10:33 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:10:33 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:10:33 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:10:33 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:10:33 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:10:33 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:10:33 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:10:33 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:10:33 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:10:33 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:10:33 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:10:42 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:10:42 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:10:42 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:10:42 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:10:42 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:10:42 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:10:42 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:10:42 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:10:42 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:10:42 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:10:42 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:10:42 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:10:42 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:10:42 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:10:42 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:10:42 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:10:42 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:10:42 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:13:24 DEBUG CategoryController:51 - Fetching category
+2019-09-03 16:13:24 DEBUG CategoryController:58 - Getting all categories
+2019-09-03 16:15:41 DEBUG CategoryController:51 - Fetching category
+2019-09-03 16:15:41 DEBUG CategoryController:58 - Getting all categories
+2019-09-03 16:16:44 DEBUG CategoryController:51 - Fetching category
+2019-09-03 16:16:44 DEBUG CategoryController:58 - Getting all categories
+2019-09-03 16:16:44 DEBUG CategoryController:51 - Fetching category
+2019-09-03 16:16:44 DEBUG CategoryController:58 - Getting all categories
+2019-09-03 16:16:58 DEBUG CategoryController:51 - Fetching category
+2019-09-03 16:16:58 DEBUG CategoryController:58 - Getting all categories
+2019-09-03 16:16:58 DEBUG CategoryController:51 - Fetching category
+2019-09-03 16:16:58 DEBUG CategoryController:58 - Getting all categories
+2019-09-03 16:17:29 DEBUG CategoryController:51 - Fetching category
+2019-09-03 16:17:29 DEBUG CategoryController:58 - Getting all categories
+2019-09-03 16:17:42 DEBUG CategoryController:51 - Fetching category
+2019-09-03 16:17:42 DEBUG CategoryController:58 - Getting all categories
+2019-09-03 16:23:46 DEBUG CategoryController:51 - Fetching category
+2019-09-03 16:23:46 DEBUG CategoryController:55 - Getting all active categories from database
+2019-09-03 16:23:48 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:23:48 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:23:49 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:23:49 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:23:49 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:23:49 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:23:49 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:23:49 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:23:50 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:23:50 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:23:51 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:23:51 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:24:03 DEBUG CategoryController:51 - Fetching category
+2019-09-03 16:24:03 DEBUG CategoryController:58 - Getting all categories
+2019-09-03 16:24:05 DEBUG CategoryController:51 - Fetching category
+2019-09-03 16:24:05 DEBUG CategoryController:58 - Getting all categories
+2019-09-03 16:24:07 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:24:09 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:24:09 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:24:09 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:24:09 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:24:11 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:24:18 DEBUG CategoryController:51 - Fetching category
+2019-09-03 16:24:18 DEBUG CategoryController:55 - Getting all active categories from database
+2019-09-03 16:24:18 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:24:18 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:24:18 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:24:18 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:24:18 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:24:18 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:24:18 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:24:18 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:24:18 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:24:18 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:24:18 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:24:18 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:24:24 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:24:24 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:24:24 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:24:24 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:24:25 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:24:25 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:24:25 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:25:01 DEBUG CategoryController:51 - Fetching category
+2019-09-03 16:25:01 DEBUG CategoryController:55 - Getting all active categories from database
+2019-09-03 16:25:01 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:25:01 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:25:01 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:25:01 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:25:01 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:25:01 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:25:01 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:25:01 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:25:01 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:25:01 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:25:01 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-03 16:25:01 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-03 16:26:08 DEBUG CategoryController:51 - Fetching category
+2019-09-03 16:26:08 DEBUG CategoryController:58 - Getting all categories
+2019-09-03 16:26:08 DEBUG CategoryController:51 - Fetching category
+2019-09-03 16:26:08 DEBUG CategoryController:58 - Getting all categories
+2019-09-04 08:19:12 DEBUG CategoryController:51 - Fetching category
+2019-09-04 08:19:12 DEBUG CategoryController:58 - Getting all categories
+2019-09-04 08:24:27 DEBUG CategoryController:51 - Fetching category
+2019-09-04 08:24:27 DEBUG CategoryController:58 - Getting all categories
+2019-09-04 08:24:58 DEBUG CategoryController:51 - Fetching category
+2019-09-04 08:24:58 DEBUG CategoryController:58 - Getting all categories
+2019-09-04 08:25:00 DEBUG CategoryController:51 - Fetching category
+2019-09-04 08:25:00 DEBUG CategoryController:58 - Getting all categories
+2019-09-04 09:38:25 DEBUG CategoryController:51 - Fetching category
+2019-09-04 09:38:25 DEBUG CategoryController:55 - Getting all active categories from database
+2019-09-04 09:39:04 DEBUG CategoryController:51 - Fetching category
+2019-09-04 09:39:04 DEBUG CategoryController:55 - Getting all active categories from database
+2019-09-04 15:06:50 DEBUG CategoryController:51 - Fetching category
+2019-09-04 15:06:50 DEBUG CategoryController:58 - Getting all categories
+2019-09-04 15:06:50 DEBUG CategoryController:51 - Fetching category
+2019-09-04 15:06:50 DEBUG CategoryController:58 - Getting all categories
+2019-09-04 15:07:36 DEBUG CategoryController:51 - Fetching category
+2019-09-04 15:07:36 DEBUG CategoryController:58 - Getting all categories
+2019-09-04 15:07:36 DEBUG CategoryController:51 - Fetching category
+2019-09-04 15:07:36 DEBUG CategoryController:58 - Getting all categories
+2019-09-04 15:08:19 DEBUG CategoryController:51 - Fetching category
+2019-09-04 15:08:19 DEBUG CategoryController:58 - Getting all categories
+2019-09-04 15:08:19 DEBUG CategoryController:51 - Fetching category
+2019-09-04 15:08:19 DEBUG CategoryController:58 - Getting all categories
+2019-09-04 15:08:47 DEBUG CategoryController:51 - Fetching category
+2019-09-04 15:08:47 DEBUG CategoryController:58 - Getting all categories
+2019-09-04 15:08:47 DEBUG CategoryController:51 - Fetching category
+2019-09-04 15:08:47 DEBUG CategoryController:58 - Getting all categories
+2019-09-04 15:11:20 DEBUG CategoryController:51 - Fetching category
+2019-09-04 15:11:20 DEBUG CategoryController:58 - Getting all categories
+2019-09-04 15:11:20 DEBUG CategoryController:51 - Fetching category
+2019-09-04 15:11:20 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 08:29:37 DEBUG CategoryController:51 - Fetching category
+2019-09-05 08:29:37 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 08:29:37 DEBUG CategoryController:51 - Fetching category
+2019-09-05 08:29:37 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 08:33:38 DEBUG CategoryController:51 - Fetching category
+2019-09-05 08:33:38 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 08:33:38 DEBUG CategoryController:51 - Fetching category
+2019-09-05 08:33:38 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 08:38:33 DEBUG CategoryController:51 - Fetching category
+2019-09-05 08:38:33 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 08:38:33 DEBUG CategoryController:51 - Fetching category
+2019-09-05 08:38:33 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 08:41:20 DEBUG CategoryController:51 - Fetching category
+2019-09-05 08:41:20 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 08:41:20 DEBUG CategoryController:51 - Fetching category
+2019-09-05 08:41:20 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 08:44:53 DEBUG CategoryController:51 - Fetching category
+2019-09-05 08:44:53 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 08:44:53 DEBUG CategoryController:51 - Fetching category
+2019-09-05 08:44:53 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 09:25:28 DEBUG CategoryController:51 - Fetching category
+2019-09-05 09:25:28 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 09:25:28 DEBUG CategoryController:51 - Fetching category
+2019-09-05 09:25:28 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 09:27:07 DEBUG CategoryController:51 - Fetching category
+2019-09-05 09:27:07 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 09:27:07 DEBUG CategoryController:51 - Fetching category
+2019-09-05 09:27:07 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 09:28:51 DEBUG CategoryController:51 - Fetching category
+2019-09-05 09:28:51 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 09:28:51 DEBUG CategoryController:51 - Fetching category
+2019-09-05 09:28:51 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 09:39:11 DEBUG CategoryController:51 - Fetching category
+2019-09-05 09:39:11 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 09:39:11 DEBUG CategoryController:51 - Fetching category
+2019-09-05 09:39:11 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 09:54:13 DEBUG CategoryController:51 - Fetching category
+2019-09-05 09:54:13 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 09:54:13 DEBUG CategoryController:51 - Fetching category
+2019-09-05 09:54:13 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 09:55:01 DEBUG CategoryController:51 - Fetching category
+2019-09-05 09:55:01 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 09:55:01 DEBUG CategoryController:51 - Fetching category
+2019-09-05 09:55:01 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 09:56:30 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 09:56:30 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 09:56:30 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 09:56:30 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 09:56:30 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 09:56:30 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 09:56:30 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 09:56:30 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 09:56:30 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 09:56:30 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 09:59:45 DEBUG CategoryController:51 - Fetching category
+2019-09-05 09:59:45 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 09:59:45 DEBUG CategoryController:51 - Fetching category
+2019-09-05 09:59:45 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 09:59:45 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 09:59:45 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 09:59:45 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 09:59:45 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 09:59:56 DEBUG CategoryController:51 - Fetching category
+2019-09-05 09:59:56 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 09:59:56 DEBUG CategoryController:51 - Fetching category
+2019-09-05 09:59:56 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 10:00:05 DEBUG CategoryController:136 - Updating category: Category [categoryId=42, skillCategory=ADO.NET, isActive=false, categoryOwner=PANEL]
+2019-09-05 10:00:05 DEBUG CategoryController:143 - Create categroy: Category [categoryId=42, skillCategory=ADO.NET, isActive=false, categoryOwner=PANEL]
+2019-09-05 10:00:05 DEBUG CategoryController:51 - Fetching category
+2019-09-05 10:00:05 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 10:00:09 DEBUG CategoryController:136 - Updating category: Category [categoryId=42, skillCategory=ADO.NET, isActive=true, categoryOwner=PANEL]
+2019-09-05 10:00:09 DEBUG CategoryController:143 - Create categroy: Category [categoryId=42, skillCategory=ADO.NET, isActive=true, categoryOwner=PANEL]
+2019-09-05 10:00:10 DEBUG CategoryController:51 - Fetching category
+2019-09-05 10:00:10 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 10:00:13 DEBUG CategoryController:51 - Fetching category
+2019-09-05 10:00:13 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 10:00:13 DEBUG CategoryController:51 - Fetching category
+2019-09-05 10:00:13 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 10:00:13 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:00:13 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:00:13 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:00:13 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:00:14 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:00:14 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:00:14 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:00:14 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:00:15 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:00:15 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:00:15 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:00:15 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:00:18 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:00:18 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:00:18 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:00:18 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:00:18 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:00:18 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:00:18 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:00:18 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:00:18 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:00:18 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:00:19 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:00:19 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:02:23 DEBUG CategoryController:51 - Fetching category
+2019-09-05 10:02:23 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 10:02:23 DEBUG CategoryController:51 - Fetching category
+2019-09-05 10:02:23 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 10:02:23 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:02:23 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:02:24 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:02:24 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:02:48 DEBUG CategoryController:51 - Fetching category
+2019-09-05 10:02:48 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 10:02:48 DEBUG CategoryController:51 - Fetching category
+2019-09-05 10:02:48 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 10:02:49 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:02:49 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:02:49 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:02:49 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:04:55 DEBUG CategoryController:51 - Fetching category
+2019-09-05 10:04:55 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 10:04:55 DEBUG CategoryController:51 - Fetching category
+2019-09-05 10:04:55 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 10:04:56 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:04:56 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:04:56 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:04:56 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:06:32 DEBUG CategoryController:51 - Fetching category
+2019-09-05 10:06:32 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 10:06:32 DEBUG CategoryController:51 - Fetching category
+2019-09-05 10:06:32 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 10:06:32 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:06:32 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:06:32 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:06:32 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:07:17 DEBUG CategoryController:51 - Fetching category
+2019-09-05 10:07:17 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 10:07:17 DEBUG CategoryController:51 - Fetching category
+2019-09-05 10:07:17 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 10:07:18 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:07:18 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:08:09 DEBUG CategoryController:51 - Fetching category
+2019-09-05 10:08:09 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 10:08:09 DEBUG CategoryController:51 - Fetching category
+2019-09-05 10:08:09 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 10:08:10 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:08:10 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:08:10 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:08:10 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:10:15 DEBUG CategoryController:51 - Fetching category
+2019-09-05 10:10:15 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 10:10:15 DEBUG CategoryController:51 - Fetching category
+2019-09-05 10:10:15 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 10:10:16 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:10:16 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:10:16 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:10:16 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:11:35 DEBUG CategoryController:51 - Fetching category
+2019-09-05 10:11:35 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 10:11:35 DEBUG CategoryController:51 - Fetching category
+2019-09-05 10:11:35 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 10:11:36 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:11:36 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:11:36 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:11:36 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:11:56 DEBUG CategoryController:51 - Fetching category
+2019-09-05 10:11:56 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 10:11:56 DEBUG CategoryController:51 - Fetching category
+2019-09-05 10:11:56 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 10:11:56 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:11:56 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:11:56 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:11:56 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:12:14 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:12:14 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:12:14 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:12:14 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:12:14 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:12:14 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:12:14 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:12:14 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:12:24 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:12:24 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:12:24 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:12:24 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:12:24 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:12:24 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:12:24 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:12:24 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:12:24 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:12:24 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:12:24 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:12:24 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:12:24 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:12:24 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:12:56 DEBUG CategoryController:51 - Fetching category
+2019-09-05 10:12:56 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 10:12:56 DEBUG CategoryController:51 - Fetching category
+2019-09-05 10:12:56 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 10:12:57 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:12:57 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:12:57 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:12:57 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:12:57 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:12:57 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:13:02 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:13:02 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:13:03 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:13:03 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:13:03 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:13:03 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:13:03 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:13:03 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:13:04 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:13:04 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:13:04 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:13:04 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:13:05 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:13:05 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:13:05 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:13:05 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:13:05 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:13:05 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:13:05 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:13:05 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:13:06 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:13:06 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:13:28 DEBUG CategoryController:51 - Fetching category
+2019-09-05 10:13:28 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 10:13:28 DEBUG CategoryController:51 - Fetching category
+2019-09-05 10:13:28 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 10:14:33 DEBUG CategoryController:51 - Fetching category
+2019-09-05 10:14:33 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 10:14:33 DEBUG CategoryController:51 - Fetching category
+2019-09-05 10:14:33 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 10:15:09 DEBUG CategoryController:51 - Fetching category
+2019-09-05 10:15:09 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 10:15:09 DEBUG CategoryController:51 - Fetching category
+2019-09-05 10:15:09 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 10:18:02 DEBUG CategoryController:51 - Fetching category
+2019-09-05 10:18:02 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 10:18:02 DEBUG CategoryController:51 - Fetching category
+2019-09-05 10:18:02 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 10:20:36 DEBUG CategoryController:51 - Fetching category
+2019-09-05 10:20:36 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 10:20:36 DEBUG CategoryController:51 - Fetching category
+2019-09-05 10:20:36 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 10:21:04 DEBUG CategoryController:51 - Fetching category
+2019-09-05 10:21:04 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 10:21:04 DEBUG CategoryController:51 - Fetching category
+2019-09-05 10:21:04 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 10:21:36 DEBUG CategoryController:51 - Fetching category
+2019-09-05 10:21:36 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 10:21:36 DEBUG CategoryController:51 - Fetching category
+2019-09-05 10:21:36 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 10:22:10 DEBUG CategoryController:51 - Fetching category
+2019-09-05 10:22:10 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 10:22:10 DEBUG CategoryController:51 - Fetching category
+2019-09-05 10:22:10 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 10:22:44 DEBUG CategoryController:51 - Fetching category
+2019-09-05 10:22:44 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 10:22:44 DEBUG CategoryController:51 - Fetching category
+2019-09-05 10:22:44 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 10:23:46 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:23:46 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:23:46 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:23:46 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:23:46 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:23:46 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:25:06 DEBUG CategoryController:51 - Fetching category
+2019-09-05 10:25:06 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 10:25:06 DEBUG CategoryController:51 - Fetching category
+2019-09-05 10:25:06 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 10:25:07 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:25:07 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:25:11 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:25:11 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:25:47 DEBUG CategoryController:51 - Fetching category
+2019-09-05 10:25:47 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 10:25:47 DEBUG CategoryController:51 - Fetching category
+2019-09-05 10:25:47 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 10:25:58 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:25:58 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:25:58 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:25:58 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:25:58 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:25:58 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:27:12 DEBUG CategoryController:51 - Fetching category
+2019-09-05 10:27:12 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 10:27:12 DEBUG CategoryController:51 - Fetching category
+2019-09-05 10:27:12 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 10:27:13 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:27:13 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:27:13 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:27:13 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:27:39 DEBUG CategoryController:51 - Fetching category
+2019-09-05 10:27:39 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 10:27:39 DEBUG CategoryController:51 - Fetching category
+2019-09-05 10:27:39 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 10:27:39 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:27:39 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:27:39 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:27:39 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:28:47 DEBUG CategoryController:51 - Fetching category
+2019-09-05 10:28:47 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 10:28:47 DEBUG CategoryController:51 - Fetching category
+2019-09-05 10:28:47 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 10:28:48 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:28:48 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:29:19 DEBUG CategoryController:51 - Fetching category
+2019-09-05 10:29:19 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 10:29:19 DEBUG CategoryController:51 - Fetching category
+2019-09-05 10:29:19 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 10:29:20 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:29:20 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:29:21 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:29:21 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:30:40 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:30:40 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:30:40 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:30:40 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:30:40 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:30:40 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:30:40 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:30:40 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:31:55 DEBUG CategoryController:51 - Fetching category
+2019-09-05 10:31:55 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 10:31:55 DEBUG CategoryController:51 - Fetching category
+2019-09-05 10:31:55 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 10:31:55 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:31:55 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:31:56 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:31:56 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:31:56 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:33:47 DEBUG CategoryController:51 - Fetching category
+2019-09-05 10:33:47 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 10:33:47 DEBUG CategoryController:51 - Fetching category
+2019-09-05 10:33:47 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 10:33:48 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:33:48 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:33:48 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:33:48 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:33:48 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:34:21 DEBUG CategoryController:51 - Fetching category
+2019-09-05 10:34:21 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 10:34:21 DEBUG CategoryController:51 - Fetching category
+2019-09-05 10:34:21 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 10:34:22 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:34:22 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:35:16 DEBUG CategoryController:51 - Fetching category
+2019-09-05 10:35:16 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 10:35:16 DEBUG CategoryController:51 - Fetching category
+2019-09-05 10:35:16 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 10:35:17 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:35:17 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:35:17 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:35:17 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:35:17 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:36:21 DEBUG CategoryController:51 - Fetching category
+2019-09-05 10:36:21 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 10:36:21 DEBUG CategoryController:51 - Fetching category
+2019-09-05 10:36:21 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 10:36:22 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:36:22 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:36:22 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:36:22 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:36:22 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:36:55 DEBUG CategoryController:51 - Fetching category
+2019-09-05 10:36:55 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 10:36:55 DEBUG CategoryController:51 - Fetching category
+2019-09-05 10:36:55 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 10:36:56 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:36:56 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:37:02 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:37:02 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:37:03 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:37:03 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:37:03 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:37:04 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:37:04 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:37:04 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:37:04 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:37:04 DEBUG CategoryController:77 - Getting category objects with id: 2
+2019-09-05 10:38:53 DEBUG CategoryController:51 - Fetching category
+2019-09-05 10:38:53 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 10:38:53 DEBUG CategoryController:51 - Fetching category
+2019-09-05 10:38:53 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 10:39:03 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-05 10:39:03 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-05 10:39:03 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-05 10:39:03 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-05 10:39:03 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-05 10:39:03 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-05 10:39:09 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-05 10:39:09 DEBUG CategoryController:77 - Getting category objects with id: 3
+2019-09-05 10:39:09 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-05 10:39:09 DEBUG CategoryController:77 - Getting category objects with id: 3
+2019-09-05 10:39:09 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-05 10:39:09 DEBUG CategoryController:77 - Getting category objects with id: 3
+2019-09-05 10:39:09 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-05 10:39:09 DEBUG CategoryController:77 - Getting category objects with id: 3
+2019-09-05 10:39:09 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-05 10:39:09 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-05 10:39:09 DEBUG CategoryController:77 - Getting category objects with id: 3
+2019-09-05 10:39:09 DEBUG CategoryController:77 - Getting category objects with id: 3
+2019-09-05 10:39:09 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-05 10:39:09 DEBUG CategoryController:77 - Getting category objects with id: 3
+2019-09-05 10:39:09 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-05 10:39:09 DEBUG CategoryController:77 - Getting category objects with id: 3
+2019-09-05 10:40:24 DEBUG CategoryController:51 - Fetching category
+2019-09-05 10:40:24 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 10:40:24 DEBUG CategoryController:51 - Fetching category
+2019-09-05 10:40:24 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 10:40:25 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-05 10:40:25 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-05 10:40:25 DEBUG CategoryController:77 - Getting category objects with id: 3
+2019-09-05 10:40:25 DEBUG CategoryController:77 - Getting category objects with id: 3
+2019-09-05 10:40:25 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-05 10:40:25 DEBUG CategoryController:77 - Getting category objects with id: 3
+2019-09-05 10:40:25 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-05 10:40:25 DEBUG CategoryController:77 - Getting category objects with id: 3
+2019-09-05 10:40:46 DEBUG CategoryController:51 - Fetching category
+2019-09-05 10:40:46 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 10:40:46 DEBUG CategoryController:51 - Fetching category
+2019-09-05 10:40:46 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 10:40:47 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-05 10:40:47 DEBUG CategoryController:77 - Getting category objects with id: 3
+2019-09-05 10:40:47 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-05 10:40:47 DEBUG CategoryController:77 - Getting category objects with id: 3
+2019-09-05 10:41:34 DEBUG CategoryController:51 - Fetching category
+2019-09-05 10:41:34 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 10:41:34 DEBUG CategoryController:51 - Fetching category
+2019-09-05 10:41:34 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 10:41:34 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-05 10:41:34 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-05 10:41:34 DEBUG CategoryController:77 - Getting category objects with id: 3
+2019-09-05 10:41:34 DEBUG CategoryController:77 - Getting category objects with id: 3
+2019-09-05 10:41:35 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-05 10:41:35 DEBUG CategoryController:77 - Getting category objects with id: 3
+2019-09-05 10:41:35 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-05 10:41:35 DEBUG CategoryController:77 - Getting category objects with id: 3
+2019-09-05 10:42:40 DEBUG CategoryController:51 - Fetching category
+2019-09-05 10:42:40 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 10:42:40 DEBUG CategoryController:51 - Fetching category
+2019-09-05 10:42:40 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 10:42:40 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-05 10:42:40 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-05 10:42:40 DEBUG CategoryController:77 - Getting category objects with id: 3
+2019-09-05 10:42:40 DEBUG CategoryController:77 - Getting category objects with id: 3
+2019-09-05 10:42:41 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-05 10:42:41 DEBUG CategoryController:77 - Getting category objects with id: 3
+2019-09-05 10:42:41 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-05 10:42:41 DEBUG CategoryController:77 - Getting category objects with id: 3
+2019-09-05 10:44:51 DEBUG CategoryController:51 - Fetching category
+2019-09-05 10:44:51 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 10:44:51 DEBUG CategoryController:51 - Fetching category
+2019-09-05 10:44:51 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 10:44:51 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-05 10:44:51 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-05 10:44:51 DEBUG CategoryController:77 - Getting category objects with id: 3
+2019-09-05 10:44:51 DEBUG CategoryController:77 - Getting category objects with id: 3
+2019-09-05 10:44:51 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-05 10:44:51 DEBUG CategoryController:77 - Getting category objects with id: 3
+2019-09-05 10:44:51 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-05 10:44:51 DEBUG CategoryController:77 - Getting category objects with id: 3
+2019-09-05 10:45:27 DEBUG CategoryController:51 - Fetching category
+2019-09-05 10:45:27 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 10:45:27 DEBUG CategoryController:51 - Fetching category
+2019-09-05 10:45:27 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 10:45:28 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-05 10:45:28 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-05 10:45:28 DEBUG CategoryController:77 - Getting category objects with id: 3
+2019-09-05 10:45:28 DEBUG CategoryController:77 - Getting category objects with id: 3
+2019-09-05 10:45:28 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-05 10:45:28 DEBUG CategoryController:77 - Getting category objects with id: 3
+2019-09-05 10:45:28 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-05 10:45:28 DEBUG CategoryController:77 - Getting category objects with id: 3
+2019-09-05 10:46:28 DEBUG CategoryController:51 - Fetching category
+2019-09-05 10:46:28 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 10:46:28 DEBUG CategoryController:51 - Fetching category
+2019-09-05 10:46:28 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 10:46:29 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-05 10:46:29 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-05 10:46:29 DEBUG CategoryController:77 - Getting category objects with id: 3
+2019-09-05 10:46:29 DEBUG CategoryController:77 - Getting category objects with id: 3
+2019-09-05 10:46:32 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-05 10:46:32 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-05 10:46:33 DEBUG CategoryController:77 - Getting category objects with id: 3
+2019-09-05 10:46:33 DEBUG CategoryController:77 - Getting category objects with id: 3
+2019-09-05 10:46:33 DEBUG CategoryController:77 - Getting category objects with id: 3
+2019-09-05 10:46:33 DEBUG CategoryController:77 - Getting category objects with id: 3
+2019-09-05 10:46:33 DEBUG CategoryController:77 - Getting category objects with id: 3
+2019-09-05 10:46:33 DEBUG CategoryController:77 - Getting category objects with id: 3
+2019-09-05 10:46:34 DEBUG CategoryController:77 - Getting category objects with id: 3
+2019-09-05 10:46:34 DEBUG CategoryController:77 - Getting category objects with id: 3
+2019-09-05 10:47:57 DEBUG CategoryController:51 - Fetching category
+2019-09-05 10:47:57 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 10:47:57 DEBUG CategoryController:51 - Fetching category
+2019-09-05 10:47:57 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 10:48:41 DEBUG CategoryController:51 - Fetching category
+2019-09-05 10:48:41 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 10:48:41 DEBUG CategoryController:51 - Fetching category
+2019-09-05 10:48:41 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 10:49:50 DEBUG CategoryController:77 - Getting category objects with id: 4
+2019-09-05 10:49:50 DEBUG CategoryController:77 - Getting category objects with id: 4
+2019-09-05 10:49:50 DEBUG CategoryController:77 - Getting category objects with id: 4
+2019-09-05 10:49:50 DEBUG CategoryController:77 - Getting category objects with id: 4
+2019-09-05 10:49:50 DEBUG CategoryController:77 - Getting category objects with id: 4
+2019-09-05 10:49:50 DEBUG CategoryController:77 - Getting category objects with id: 4
+2019-09-05 10:50:43 DEBUG CategoryController:51 - Fetching category
+2019-09-05 10:50:43 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 10:50:43 DEBUG CategoryController:51 - Fetching category
+2019-09-05 10:50:43 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 10:50:44 DEBUG CategoryController:77 - Getting category objects with id: 4
+2019-09-05 10:50:44 DEBUG CategoryController:77 - Getting category objects with id: 4
+2019-09-05 10:50:45 DEBUG CategoryController:77 - Getting category objects with id: 4
+2019-09-05 10:50:45 DEBUG CategoryController:77 - Getting category objects with id: 4
+2019-09-05 10:51:03 DEBUG CategoryController:77 - Getting category objects with id: 4
+2019-09-05 10:51:03 DEBUG CategoryController:77 - Getting category objects with id: 5
+2019-09-05 10:51:03 DEBUG CategoryController:77 - Getting category objects with id: 4
+2019-09-05 10:51:03 DEBUG CategoryController:77 - Getting category objects with id: 5
+2019-09-05 10:51:03 DEBUG CategoryController:77 - Getting category objects with id: 5
+2019-09-05 10:51:03 DEBUG CategoryController:77 - Getting category objects with id: 4
+2019-09-05 10:51:03 DEBUG CategoryController:77 - Getting category objects with id: 5
+2019-09-05 10:51:03 DEBUG CategoryController:77 - Getting category objects with id: 4
+2019-09-05 10:51:03 DEBUG CategoryController:77 - Getting category objects with id: 4
+2019-09-05 10:51:03 DEBUG CategoryController:77 - Getting category objects with id: 5
+2019-09-05 10:51:03 DEBUG CategoryController:77 - Getting category objects with id: 4
+2019-09-05 10:51:03 DEBUG CategoryController:77 - Getting category objects with id: 5
+2019-09-05 10:51:48 DEBUG CategoryController:51 - Fetching category
+2019-09-05 10:51:48 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 10:51:48 DEBUG CategoryController:51 - Fetching category
+2019-09-05 10:51:48 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 10:51:49 DEBUG CategoryController:77 - Getting category objects with id: 4
+2019-09-05 10:51:49 DEBUG CategoryController:77 - Getting category objects with id: 4
+2019-09-05 10:51:49 DEBUG CategoryController:77 - Getting category objects with id: 5
+2019-09-05 10:51:49 DEBUG CategoryController:77 - Getting category objects with id: 5
+2019-09-05 10:51:49 DEBUG CategoryController:77 - Getting category objects with id: 4
+2019-09-05 10:51:49 DEBUG CategoryController:77 - Getting category objects with id: 5
+2019-09-05 10:51:49 DEBUG CategoryController:77 - Getting category objects with id: 4
+2019-09-05 10:51:49 DEBUG CategoryController:77 - Getting category objects with id: 5
+2019-09-05 10:52:00 DEBUG CategoryController:77 - Getting category objects with id: 4
+2019-09-05 10:52:00 DEBUG CategoryController:77 - Getting category objects with id: 5
+2019-09-05 10:52:00 DEBUG CategoryController:77 - Getting category objects with id: 12
+2019-09-05 10:52:00 DEBUG CategoryController:77 - Getting category objects with id: 4
+2019-09-05 10:52:00 DEBUG CategoryController:77 - Getting category objects with id: 5
+2019-09-05 10:52:00 DEBUG CategoryController:77 - Getting category objects with id: 12
+2019-09-05 10:52:00 DEBUG CategoryController:77 - Getting category objects with id: 4
+2019-09-05 10:52:00 DEBUG CategoryController:77 - Getting category objects with id: 5
+2019-09-05 10:52:00 DEBUG CategoryController:77 - Getting category objects with id: 12
+2019-09-05 10:52:00 DEBUG CategoryController:77 - Getting category objects with id: 4
+2019-09-05 10:52:00 DEBUG CategoryController:77 - Getting category objects with id: 5
+2019-09-05 10:52:00 DEBUG CategoryController:77 - Getting category objects with id: 4
+2019-09-05 10:52:00 DEBUG CategoryController:77 - Getting category objects with id: 12
+2019-09-05 10:52:00 DEBUG CategoryController:77 - Getting category objects with id: 5
+2019-09-05 10:52:00 DEBUG CategoryController:77 - Getting category objects with id: 12
+2019-09-05 10:52:00 DEBUG CategoryController:77 - Getting category objects with id: 4
+2019-09-05 10:52:00 DEBUG CategoryController:77 - Getting category objects with id: 5
+2019-09-05 10:52:00 DEBUG CategoryController:77 - Getting category objects with id: 12
+2019-09-05 10:53:04 DEBUG CategoryController:51 - Fetching category
+2019-09-05 10:53:04 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 10:53:04 DEBUG CategoryController:51 - Fetching category
+2019-09-05 10:53:04 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 10:53:05 DEBUG CategoryController:77 - Getting category objects with id: 4
+2019-09-05 10:53:05 DEBUG CategoryController:77 - Getting category objects with id: 4
+2019-09-05 10:53:05 DEBUG CategoryController:77 - Getting category objects with id: 5
+2019-09-05 10:53:05 DEBUG CategoryController:77 - Getting category objects with id: 5
+2019-09-05 10:53:05 DEBUG CategoryController:77 - Getting category objects with id: 12
+2019-09-05 10:53:05 DEBUG CategoryController:77 - Getting category objects with id: 12
+2019-09-05 10:53:39 DEBUG CategoryController:51 - Fetching category
+2019-09-05 10:53:39 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 10:53:39 DEBUG CategoryController:51 - Fetching category
+2019-09-05 10:53:39 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 10:53:39 DEBUG CategoryController:77 - Getting category objects with id: 4
+2019-09-05 10:53:39 DEBUG CategoryController:77 - Getting category objects with id: 4
+2019-09-05 10:53:39 DEBUG CategoryController:77 - Getting category objects with id: 5
+2019-09-05 10:53:39 DEBUG CategoryController:77 - Getting category objects with id: 5
+2019-09-05 10:53:39 DEBUG CategoryController:77 - Getting category objects with id: 12
+2019-09-05 10:53:39 DEBUG CategoryController:77 - Getting category objects with id: 12
+2019-09-05 10:53:39 DEBUG CategoryController:77 - Getting category objects with id: 4
+2019-09-05 10:53:39 DEBUG CategoryController:77 - Getting category objects with id: 12
+2019-09-05 10:53:39 DEBUG CategoryController:77 - Getting category objects with id: 5
+2019-09-05 10:53:39 DEBUG CategoryController:77 - Getting category objects with id: 4
+2019-09-05 10:53:39 DEBUG CategoryController:77 - Getting category objects with id: 5
+2019-09-05 10:53:39 DEBUG CategoryController:77 - Getting category objects with id: 12
+2019-09-05 10:53:50 DEBUG CategoryController:77 - Getting category objects with id: 12
+2019-09-05 10:53:50 DEBUG CategoryController:77 - Getting category objects with id: 12
+2019-09-05 10:53:51 DEBUG CategoryController:77 - Getting category objects with id: 4
+2019-09-05 10:53:51 DEBUG CategoryController:77 - Getting category objects with id: 5
+2019-09-05 10:53:51 DEBUG CategoryController:77 - Getting category objects with id: 4
+2019-09-05 10:53:51 DEBUG CategoryController:77 - Getting category objects with id: 5
+2019-09-05 10:53:51 DEBUG CategoryController:77 - Getting category objects with id: 4
+2019-09-05 10:53:51 DEBUG CategoryController:77 - Getting category objects with id: 5
+2019-09-05 10:53:51 DEBUG CategoryController:77 - Getting category objects with id: 4
+2019-09-05 10:53:51 DEBUG CategoryController:77 - Getting category objects with id: 5
+2019-09-05 10:53:51 DEBUG CategoryController:77 - Getting category objects with id: 4
+2019-09-05 10:53:51 DEBUG CategoryController:77 - Getting category objects with id: 5
+2019-09-05 10:53:51 DEBUG CategoryController:77 - Getting category objects with id: 4
+2019-09-05 10:53:51 DEBUG CategoryController:77 - Getting category objects with id: 5
+2019-09-05 10:54:32 DEBUG CategoryController:51 - Fetching category
+2019-09-05 10:54:32 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 10:54:33 DEBUG CategoryController:51 - Fetching category
+2019-09-05 10:54:33 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 10:54:33 DEBUG CategoryController:77 - Getting category objects with id: 4
+2019-09-05 10:54:33 DEBUG CategoryController:77 - Getting category objects with id: 4
+2019-09-05 10:54:33 DEBUG CategoryController:77 - Getting category objects with id: 5
+2019-09-05 10:54:33 DEBUG CategoryController:77 - Getting category objects with id: 5
+2019-09-05 10:54:33 DEBUG CategoryController:77 - Getting category objects with id: 4
+2019-09-05 10:54:33 DEBUG CategoryController:77 - Getting category objects with id: 5
+2019-09-05 10:54:33 DEBUG CategoryController:77 - Getting category objects with id: 4
+2019-09-05 10:54:33 DEBUG CategoryController:77 - Getting category objects with id: 5
+2019-09-05 10:55:13 DEBUG CategoryController:77 - Getting category objects with id: 5
+2019-09-05 10:55:13 DEBUG CategoryController:77 - Getting category objects with id: 5
+2019-09-05 10:55:14 DEBUG CategoryController:77 - Getting category objects with id: 4
+2019-09-05 10:55:14 DEBUG CategoryController:77 - Getting category objects with id: 4
+2019-09-05 10:55:14 DEBUG CategoryController:77 - Getting category objects with id: 4
+2019-09-05 10:55:14 DEBUG CategoryController:77 - Getting category objects with id: 4
+2019-09-05 10:55:14 DEBUG CategoryController:77 - Getting category objects with id: 4
+2019-09-05 10:55:14 DEBUG CategoryController:77 - Getting category objects with id: 4
+2019-09-05 10:55:48 DEBUG CategoryController:51 - Fetching category
+2019-09-05 10:55:48 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 10:55:48 DEBUG CategoryController:51 - Fetching category
+2019-09-05 10:55:48 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 10:55:49 DEBUG CategoryController:77 - Getting category objects with id: 4
+2019-09-05 10:55:49 DEBUG CategoryController:77 - Getting category objects with id: 4
+2019-09-05 10:55:49 DEBUG CategoryController:77 - Getting category objects with id: 4
+2019-09-05 10:55:49 DEBUG CategoryController:77 - Getting category objects with id: 4
+2019-09-05 10:56:17 DEBUG CategoryController:51 - Fetching category
+2019-09-05 10:56:17 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 10:56:17 DEBUG CategoryController:51 - Fetching category
+2019-09-05 10:56:17 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 10:56:18 DEBUG CategoryController:77 - Getting category objects with id: 4
+2019-09-05 10:56:18 DEBUG CategoryController:77 - Getting category objects with id: 4
+2019-09-05 10:56:23 DEBUG CategoryController:77 - Getting category objects with id: 4
+2019-09-05 10:56:23 DEBUG CategoryController:77 - Getting category objects with id: 4
+2019-09-05 11:06:52 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-05 11:06:52 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-05 11:06:52 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-05 11:06:52 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-05 11:06:52 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-05 11:06:52 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-05 11:06:52 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-05 11:06:52 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-05 11:07:25 DEBUG CategoryController:51 - Fetching category
+2019-09-05 11:07:25 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 11:07:25 DEBUG CategoryController:51 - Fetching category
+2019-09-05 11:07:25 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 11:07:25 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-05 11:07:25 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-05 11:07:26 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-05 11:07:26 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-05 11:07:57 DEBUG CategoryController:51 - Fetching category
+2019-09-05 11:07:57 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 11:07:57 DEBUG CategoryController:51 - Fetching category
+2019-09-05 11:07:57 DEBUG CategoryController:58 - Getting all categories
+2019-09-05 11:07:57 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-05 11:07:57 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-05 11:07:57 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-05 11:07:57 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-05 11:08:21 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-05 11:08:21 DEBUG CategoryController:77 - Getting category objects with id: 5
+2019-09-05 11:08:21 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-05 11:08:21 DEBUG CategoryController:77 - Getting category objects with id: 5
+2019-09-05 11:08:21 DEBUG CategoryController:77 - Getting category objects with id: 5
+2019-09-05 11:08:21 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-05 11:08:21 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-05 11:08:21 DEBUG CategoryController:77 - Getting category objects with id: 5
+2019-09-05 11:08:21 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-05 11:08:21 DEBUG CategoryController:77 - Getting category objects with id: 5
+2019-09-05 11:08:21 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-05 11:08:21 DEBUG CategoryController:77 - Getting category objects with id: 5
+2019-09-05 11:08:30 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-05 11:08:30 DEBUG CategoryController:77 - Getting category objects with id: 5
+2019-09-05 11:08:30 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-05 11:08:30 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-05 11:08:30 DEBUG CategoryController:77 - Getting category objects with id: 5
+2019-09-05 11:08:30 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-05 11:08:30 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-05 11:08:30 DEBUG CategoryController:77 - Getting category objects with id: 5
+2019-09-05 11:08:30 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-05 11:08:30 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-05 11:08:30 DEBUG CategoryController:77 - Getting category objects with id: 5
+2019-09-05 11:08:30 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-05 11:08:30 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-05 11:08:30 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-05 11:08:30 DEBUG CategoryController:77 - Getting category objects with id: 5
+2019-09-05 11:08:30 DEBUG CategoryController:77 - Getting category objects with id: 5
+2019-09-05 11:08:30 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-05 11:08:30 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-05 11:08:30 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-05 11:08:30 DEBUG CategoryController:77 - Getting category objects with id: 5
+2019-09-05 11:08:30 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-05 11:08:30 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-05 11:08:30 DEBUG CategoryController:77 - Getting category objects with id: 5
+2019-09-05 11:08:30 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-05 11:08:34 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-05 11:08:34 DEBUG CategoryController:77 - Getting category objects with id: 9
+2019-09-05 11:08:35 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-05 11:08:35 DEBUG CategoryController:77 - Getting category objects with id: 5
+2019-09-05 11:08:35 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-05 11:08:35 DEBUG CategoryController:77 - Getting category objects with id: 5
+2019-09-05 11:08:35 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-05 11:08:35 DEBUG CategoryController:77 - Getting category objects with id: 5
+2019-09-05 11:08:35 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-05 11:08:35 DEBUG CategoryController:77 - Getting category objects with id: 5
+2019-09-05 11:08:35 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-05 11:08:35 DEBUG CategoryController:77 - Getting category objects with id: 5
+2019-09-05 11:08:35 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-05 11:08:35 DEBUG CategoryController:77 - Getting category objects with id: 5
+2019-09-05 11:08:35 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-05 11:08:35 DEBUG CategoryController:77 - Getting category objects with id: 5
+2019-09-05 11:08:35 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-05 11:08:35 DEBUG CategoryController:77 - Getting category objects with id: 5
+2019-09-05 11:08:35 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-05 11:08:35 DEBUG CategoryController:77 - Getting category objects with id: 5
+2019-09-05 11:08:35 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-05 11:08:35 DEBUG CategoryController:77 - Getting category objects with id: 5
+2019-09-05 11:08:35 DEBUG CategoryController:77 - Getting category objects with id: 5
+2019-09-05 11:08:35 DEBUG CategoryController:77 - Getting category objects with id: 5
+2019-09-05 11:08:36 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-05 11:08:36 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-05 11:08:36 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-05 11:08:36 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-05 11:08:36 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-05 11:08:36 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-05 11:08:36 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-05 11:08:36 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-05 11:08:36 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-05 11:08:36 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-05 11:08:36 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-05 11:08:36 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-05 11:08:37 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-05 11:08:37 DEBUG CategoryController:77 - Getting category objects with id: 1
+2019-09-06 15:18:55 DEBUG CategoryController:51 - Fetching category
+2019-09-06 15:18:55 DEBUG CategoryController:58 - Getting all categories
